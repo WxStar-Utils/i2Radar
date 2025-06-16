@@ -1,0 +1,2336 @@
+INFO:__main__:Starting i2Radar..
+INFO:__main__:Beginning Initial frame generation
+INFO:twc.compositor:Creating radar frames..
+INFO:twc.compositor:Stitching radar tile 0/36..
+INFO:twc.compositor:Stitching radar tile 1/36..
+INFO:twc.compositor:Stitching radar tile 2/36..
+INFO:twc.compositor:Stitching radar tile 3/36..
+INFO:twc.compositor:Stitching radar tile 4/36..
+INFO:twc.compositor:Stitching radar tile 5/36..
+INFO:twc.compositor:Stitching radar tile 6/36..
+INFO:twc.compositor:Stitching radar tile 7/36..
+INFO:twc.compositor:Stitching radar tile 8/36..
+INFO:twc.compositor:Stitching radar tile 9/36..
+INFO:twc.compositor:Stitching radar tile 10/36..
+INFO:twc.compositor:Stitching radar tile 11/36..
+INFO:twc.compositor:Stitching radar tile 12/36..
+INFO:twc.compositor:Stitching radar tile 13/36..
+INFO:twc.compositor:Stitching radar tile 14/36..
+INFO:twc.compositor:Stitching radar tile 15/36..
+INFO:twc.compositor:Stitching radar tile 16/36..
+INFO:twc.compositor:Stitching radar tile 17/36..
+INFO:twc.compositor:Stitching radar tile 18/36..
+INFO:twc.compositor:Stitching radar tile 19/36..
+INFO:twc.compositor:Stitching radar tile 20/36..
+INFO:twc.compositor:Stitching radar tile 21/36..
+INFO:twc.compositor:Stitching radar tile 22/36..
+INFO:twc.compositor:Stitching radar tile 23/36..
+INFO:twc.compositor:Stitching radar tile 24/36..
+INFO:twc.compositor:Stitching radar tile 25/36..
+INFO:twc.compositor:Stitching radar tile 26/36..
+INFO:twc.compositor:Stitching radar tile 27/36..
+INFO:twc.compositor:Stitching radar tile 28/36..
+INFO:twc.compositor:Stitching radar tile 29/36..
+INFO:twc.compositor:Stitching radar tile 30/36..
+INFO:twc.compositor:Stitching radar tile 31/36..
+INFO:twc.compositor:Stitching radar tile 32/36..
+INFO:twc.compositor:Stitching radar tile 33/36..
+INFO:twc.compositor:Stitching radar tile 34/36..
+INFO:twc.compositor:Stitching radar tile 35/36..
+INFO:twc.compositor:Compositing frame 1/1
+INFO:twc.compositor:Creating radar frames..
+2025-06-16 02:03:20,834 [INFO] Starting i2Radar..
+2025-06-16 02:03:20,834 [INFO] Beginning Initial frame generation
+2025-06-16 02:03:20,835 [INFO] Creating radar frames..
+2025-06-16 02:03:30,296 [INFO] Stitching radar tile 0/36..
+2025-06-16 02:03:30,554 [INFO] Stitching radar tile 1/36..
+2025-06-16 02:03:30,555 [INFO] Stitching radar tile 2/36..
+2025-06-16 02:03:30,555 [INFO] Stitching radar tile 3/36..
+2025-06-16 02:03:30,555 [INFO] Stitching radar tile 4/36..
+2025-06-16 02:03:30,555 [INFO] Stitching radar tile 5/36..
+2025-06-16 02:03:30,555 [INFO] Stitching radar tile 6/36..
+2025-06-16 02:03:30,556 [INFO] Stitching radar tile 7/36..
+2025-06-16 02:03:30,556 [INFO] Stitching radar tile 8/36..
+2025-06-16 02:03:30,556 [INFO] Stitching radar tile 9/36..
+2025-06-16 02:03:30,556 [INFO] Stitching radar tile 10/36..
+2025-06-16 02:03:30,556 [INFO] Stitching radar tile 11/36..
+2025-06-16 02:03:30,556 [INFO] Stitching radar tile 12/36..
+2025-06-16 02:03:30,556 [INFO] Stitching radar tile 13/36..
+2025-06-16 02:03:30,556 [INFO] Stitching radar tile 14/36..
+2025-06-16 02:03:30,557 [INFO] Stitching radar tile 15/36..
+2025-06-16 02:03:30,557 [INFO] Stitching radar tile 16/36..
+2025-06-16 02:03:30,557 [INFO] Stitching radar tile 17/36..
+2025-06-16 02:03:30,557 [INFO] Stitching radar tile 18/36..
+2025-06-16 02:03:30,557 [INFO] Stitching radar tile 19/36..
+2025-06-16 02:03:30,557 [INFO] Stitching radar tile 20/36..
+2025-06-16 02:03:30,557 [INFO] Stitching radar tile 21/36..
+2025-06-16 02:03:30,558 [INFO] Stitching radar tile 22/36..
+2025-06-16 02:03:30,558 [INFO] Stitching radar tile 23/36..
+2025-06-16 02:03:30,558 [INFO] Stitching radar tile 24/36..
+2025-06-16 02:03:30,558 [INFO] Stitching radar tile 25/36..
+2025-06-16 02:03:30,558 [INFO] Stitching radar tile 26/36..
+2025-06-16 02:03:30,558 [INFO] Stitching radar tile 27/36..
+2025-06-16 02:03:30,558 [INFO] Stitching radar tile 28/36..
+2025-06-16 02:03:30,558 [INFO] Stitching radar tile 29/36..
+2025-06-16 02:03:30,559 [INFO] Stitching radar tile 30/36..
+2025-06-16 02:03:30,559 [INFO] Stitching radar tile 31/36..
+2025-06-16 02:03:30,559 [INFO] Stitching radar tile 32/36..
+2025-06-16 02:03:30,559 [INFO] Stitching radar tile 33/36..
+2025-06-16 02:03:30,559 [INFO] Stitching radar tile 34/36..
+2025-06-16 02:03:30,559 [INFO] Stitching radar tile 35/36..
+2025-06-16 02:03:30,559 [INFO] Compositing frame 1/1
+2025-06-16 03:20:52,161 [INFO] Starting i2Radar..
+2025-06-16 03:20:52,161 [INFO] Beginning Initial frame generation
+2025-06-16 03:20:52,161 [INFO] Creating radar frames..
+2025-06-16 03:21:05,266 [INFO] Starting i2Radar..
+2025-06-16 03:21:05,266 [INFO] Beginning Initial frame generation
+2025-06-16 03:21:05,266 [INFO] Creating radar frames..
+2025-06-16 03:25:20,665 [INFO] Starting i2Radar..
+2025-06-16 03:25:20,665 [INFO] Beginning Initial frame generation
+2025-06-16 03:25:20,665 [INFO] Creating radar frames..
+2025-06-16 03:25:20,931 [INFO] Cleared 24 radar frames.
+2025-06-16 03:26:22,228 [INFO] Stitching radar tile 0/36..
+2025-06-16 03:26:22,483 [INFO] Stitching radar tile 1/36..
+2025-06-16 03:26:22,683 [INFO] Stitching radar tile 2/36..
+2025-06-16 03:26:22,881 [INFO] Stitching radar tile 3/36..
+2025-06-16 03:26:23,085 [INFO] Stitching radar tile 4/36..
+2025-06-16 03:26:23,287 [INFO] Stitching radar tile 5/36..
+2025-06-16 03:26:23,494 [INFO] Stitching radar tile 6/36..
+2025-06-16 03:26:23,698 [INFO] Stitching radar tile 7/36..
+2025-06-16 03:26:23,899 [INFO] Stitching radar tile 8/36..
+2025-06-16 03:26:24,097 [INFO] Stitching radar tile 9/36..
+2025-06-16 03:26:24,304 [INFO] Stitching radar tile 10/36..
+2025-06-16 03:26:24,504 [INFO] Stitching radar tile 11/36..
+2025-06-16 03:26:24,708 [INFO] Stitching radar tile 12/36..
+2025-06-16 03:26:24,911 [INFO] Stitching radar tile 13/36..
+2025-06-16 03:26:25,112 [INFO] Stitching radar tile 14/36..
+2025-06-16 03:26:25,318 [INFO] Stitching radar tile 15/36..
+2025-06-16 03:26:25,519 [INFO] Stitching radar tile 16/36..
+2025-06-16 03:26:25,519 [INFO] Stitching radar tile 17/36..
+2025-06-16 03:26:25,519 [INFO] Stitching radar tile 18/36..
+2025-06-16 03:26:25,519 [INFO] Stitching radar tile 19/36..
+2025-06-16 03:26:25,519 [INFO] Stitching radar tile 20/36..
+2025-06-16 03:26:25,520 [INFO] Stitching radar tile 21/36..
+2025-06-16 03:26:25,520 [INFO] Stitching radar tile 22/36..
+2025-06-16 03:26:25,520 [INFO] Stitching radar tile 23/36..
+2025-06-16 03:26:25,520 [INFO] Stitching radar tile 24/36..
+2025-06-16 03:26:25,520 [INFO] Stitching radar tile 25/36..
+2025-06-16 03:26:25,520 [INFO] Stitching radar tile 26/36..
+2025-06-16 03:26:25,520 [INFO] Stitching radar tile 27/36..
+2025-06-16 03:26:25,520 [INFO] Stitching radar tile 28/36..
+2025-06-16 03:26:25,521 [INFO] Stitching radar tile 29/36..
+2025-06-16 03:26:25,521 [INFO] Stitching radar tile 30/36..
+2025-06-16 03:26:25,521 [INFO] Stitching radar tile 31/36..
+2025-06-16 03:26:25,522 [INFO] Stitching radar tile 32/36..
+2025-06-16 03:26:25,522 [INFO] Stitching radar tile 33/36..
+2025-06-16 03:26:25,522 [INFO] Stitching radar tile 34/36..
+2025-06-16 03:26:25,522 [INFO] Stitching radar tile 35/36..
+2025-06-16 03:26:25,522 [INFO] Compositing frame 1/16
+2025-06-16 03:26:29,697 [INFO] Compositing frame 2/16
+2025-06-16 03:26:33,892 [INFO] Compositing frame 3/16
+2025-06-16 03:26:37,983 [INFO] Compositing frame 4/16
+2025-06-16 03:26:42,098 [INFO] Compositing frame 5/16
+2025-06-16 03:26:46,195 [INFO] Compositing frame 6/16
+2025-06-16 03:26:50,318 [INFO] Compositing frame 7/16
+2025-06-16 03:26:54,438 [INFO] Compositing frame 8/16
+2025-06-16 03:26:58,567 [INFO] Compositing frame 9/16
+2025-06-16 03:27:02,695 [INFO] Compositing frame 10/16
+2025-06-16 03:27:06,801 [INFO] Compositing frame 11/16
+2025-06-16 03:27:10,959 [INFO] Compositing frame 12/16
+2025-06-16 03:27:15,077 [INFO] Compositing frame 13/16
+2025-06-16 03:27:19,166 [INFO] Compositing frame 14/16
+2025-06-16 03:27:23,258 [INFO] Compositing frame 15/16
+2025-06-16 03:27:27,353 [INFO] Compositing frame 16/16
+2025-06-16 03:32:31,907 [INFO] Creating radar frames..
+2025-06-16 03:32:32,181 [INFO] Cleared 2 radar frames.
+2025-06-16 03:32:42,934 [INFO] Stitching radar tile 0/36..
+2025-06-16 03:32:43,140 [INFO] Stitching radar tile 1/36..
+2025-06-16 03:32:43,343 [INFO] Stitching radar tile 2/36..
+2025-06-16 03:32:43,343 [INFO] Stitching radar tile 3/36..
+2025-06-16 03:32:43,343 [INFO] Stitching radar tile 4/36..
+2025-06-16 03:32:43,344 [INFO] Stitching radar tile 5/36..
+2025-06-16 03:32:43,344 [INFO] Stitching radar tile 6/36..
+2025-06-16 03:32:43,344 [INFO] Stitching radar tile 7/36..
+2025-06-16 03:32:43,344 [INFO] Stitching radar tile 8/36..
+2025-06-16 03:32:43,344 [INFO] Stitching radar tile 9/36..
+2025-06-16 03:32:43,344 [INFO] Stitching radar tile 10/36..
+2025-06-16 03:32:43,344 [INFO] Stitching radar tile 11/36..
+2025-06-16 03:32:43,345 [INFO] Stitching radar tile 12/36..
+2025-06-16 03:32:43,345 [INFO] Stitching radar tile 13/36..
+2025-06-16 03:32:43,345 [INFO] Stitching radar tile 14/36..
+2025-06-16 03:32:43,345 [INFO] Stitching radar tile 15/36..
+2025-06-16 03:32:43,345 [INFO] Stitching radar tile 16/36..
+2025-06-16 03:32:43,345 [INFO] Stitching radar tile 17/36..
+2025-06-16 03:32:43,345 [INFO] Stitching radar tile 18/36..
+2025-06-16 03:32:43,345 [INFO] Stitching radar tile 19/36..
+2025-06-16 03:32:43,346 [INFO] Stitching radar tile 20/36..
+2025-06-16 03:32:43,346 [INFO] Stitching radar tile 21/36..
+2025-06-16 03:32:43,346 [INFO] Stitching radar tile 22/36..
+2025-06-16 03:32:43,346 [INFO] Stitching radar tile 23/36..
+2025-06-16 03:32:43,346 [INFO] Stitching radar tile 24/36..
+2025-06-16 03:32:43,347 [INFO] Stitching radar tile 25/36..
+2025-06-16 03:32:43,347 [INFO] Stitching radar tile 26/36..
+2025-06-16 03:32:43,347 [INFO] Stitching radar tile 27/36..
+2025-06-16 03:32:43,347 [INFO] Stitching radar tile 28/36..
+2025-06-16 03:32:43,347 [INFO] Stitching radar tile 29/36..
+2025-06-16 03:32:43,347 [INFO] Stitching radar tile 30/36..
+2025-06-16 03:32:43,347 [INFO] Stitching radar tile 31/36..
+2025-06-16 03:32:43,347 [INFO] Stitching radar tile 32/36..
+2025-06-16 03:32:43,348 [INFO] Stitching radar tile 33/36..
+2025-06-16 03:32:43,348 [INFO] Stitching radar tile 34/36..
+2025-06-16 03:32:43,348 [INFO] Stitching radar tile 35/36..
+2025-06-16 03:32:43,348 [INFO] Compositing frame 1/2
+2025-06-16 03:32:47,582 [INFO] Compositing frame 2/2
+2025-06-16 03:33:51,645 [INFO] Starting i2Radar..
+2025-06-16 03:33:51,645 [INFO] Beginning Initial frame generation
+2025-06-16 03:33:51,645 [INFO] Creating radar frames..
+2025-06-16 03:33:51,868 [INFO] Cleared 0 radar frames.
+2025-06-16 03:38:51,984 [INFO] Creating radar frames..
+2025-06-16 03:38:52,235 [INFO] Cleared 1 radar frames.
+2025-06-16 03:38:59,970 [INFO] Stitching radar tile 0/36..
+2025-06-16 03:39:00,230 [INFO] Stitching radar tile 1/36..
+2025-06-16 03:39:00,230 [INFO] Stitching radar tile 2/36..
+2025-06-16 03:39:00,230 [INFO] Stitching radar tile 3/36..
+2025-06-16 03:39:00,230 [INFO] Stitching radar tile 4/36..
+2025-06-16 03:39:00,231 [INFO] Stitching radar tile 5/36..
+2025-06-16 03:39:00,231 [INFO] Stitching radar tile 6/36..
+2025-06-16 03:39:00,231 [INFO] Stitching radar tile 7/36..
+2025-06-16 03:39:00,231 [INFO] Stitching radar tile 8/36..
+2025-06-16 03:39:00,231 [INFO] Stitching radar tile 9/36..
+2025-06-16 03:39:00,231 [INFO] Stitching radar tile 10/36..
+2025-06-16 03:39:00,231 [INFO] Stitching radar tile 11/36..
+2025-06-16 03:39:00,232 [INFO] Stitching radar tile 12/36..
+2025-06-16 03:39:00,232 [INFO] Stitching radar tile 13/36..
+2025-06-16 03:39:00,232 [INFO] Stitching radar tile 14/36..
+2025-06-16 03:39:00,232 [INFO] Stitching radar tile 15/36..
+2025-06-16 03:39:00,232 [INFO] Stitching radar tile 16/36..
+2025-06-16 03:39:00,232 [INFO] Stitching radar tile 17/36..
+2025-06-16 03:39:00,233 [INFO] Stitching radar tile 18/36..
+2025-06-16 03:39:00,233 [INFO] Stitching radar tile 19/36..
+2025-06-16 03:39:00,233 [INFO] Stitching radar tile 20/36..
+2025-06-16 03:39:00,233 [INFO] Stitching radar tile 21/36..
+2025-06-16 03:39:00,233 [INFO] Stitching radar tile 22/36..
+2025-06-16 03:39:00,233 [INFO] Stitching radar tile 23/36..
+2025-06-16 03:39:00,234 [INFO] Stitching radar tile 24/36..
+2025-06-16 03:39:00,234 [INFO] Stitching radar tile 25/36..
+2025-06-16 03:39:00,234 [INFO] Stitching radar tile 26/36..
+2025-06-16 03:39:00,234 [INFO] Stitching radar tile 27/36..
+2025-06-16 03:39:00,234 [INFO] Stitching radar tile 28/36..
+2025-06-16 03:39:00,234 [INFO] Stitching radar tile 29/36..
+2025-06-16 03:39:00,234 [INFO] Stitching radar tile 30/36..
+2025-06-16 03:39:00,235 [INFO] Stitching radar tile 31/36..
+2025-06-16 03:39:00,235 [INFO] Stitching radar tile 32/36..
+2025-06-16 03:39:00,235 [INFO] Stitching radar tile 33/36..
+2025-06-16 03:39:00,235 [INFO] Stitching radar tile 34/36..
+2025-06-16 03:39:00,235 [INFO] Stitching radar tile 35/36..
+2025-06-16 03:39:00,235 [INFO] Compositing frame 1/1
+2025-06-16 03:44:04,665 [INFO] Creating radar frames..
+2025-06-16 03:44:04,928 [INFO] Cleared 1 radar frames.
+2025-06-16 03:44:11,975 [INFO] Stitching radar tile 0/36..
+2025-06-16 03:44:12,181 [INFO] Stitching radar tile 1/36..
+2025-06-16 03:44:12,181 [INFO] Stitching radar tile 2/36..
+2025-06-16 03:44:12,181 [INFO] Stitching radar tile 3/36..
+2025-06-16 03:44:12,181 [INFO] Stitching radar tile 4/36..
+2025-06-16 03:44:12,181 [INFO] Stitching radar tile 5/36..
+2025-06-16 03:44:12,182 [INFO] Stitching radar tile 6/36..
+2025-06-16 03:44:12,182 [INFO] Stitching radar tile 7/36..
+2025-06-16 03:44:12,182 [INFO] Stitching radar tile 8/36..
+2025-06-16 03:44:12,182 [INFO] Stitching radar tile 9/36..
+2025-06-16 03:44:12,182 [INFO] Stitching radar tile 10/36..
+2025-06-16 03:44:12,182 [INFO] Stitching radar tile 11/36..
+2025-06-16 03:44:12,182 [INFO] Stitching radar tile 12/36..
+2025-06-16 03:44:12,183 [INFO] Stitching radar tile 13/36..
+2025-06-16 03:44:12,183 [INFO] Stitching radar tile 14/36..
+2025-06-16 03:44:12,183 [INFO] Stitching radar tile 15/36..
+2025-06-16 03:44:12,183 [INFO] Stitching radar tile 16/36..
+2025-06-16 03:44:12,183 [INFO] Stitching radar tile 17/36..
+2025-06-16 03:44:12,183 [INFO] Stitching radar tile 18/36..
+2025-06-16 03:44:12,183 [INFO] Stitching radar tile 19/36..
+2025-06-16 03:44:12,183 [INFO] Stitching radar tile 20/36..
+2025-06-16 03:44:12,184 [INFO] Stitching radar tile 21/36..
+2025-06-16 03:44:12,184 [INFO] Stitching radar tile 22/36..
+2025-06-16 03:44:12,184 [INFO] Stitching radar tile 23/36..
+2025-06-16 03:44:12,184 [INFO] Stitching radar tile 24/36..
+2025-06-16 03:44:12,184 [INFO] Stitching radar tile 25/36..
+2025-06-16 03:44:12,184 [INFO] Stitching radar tile 26/36..
+2025-06-16 03:44:12,184 [INFO] Stitching radar tile 27/36..
+2025-06-16 03:44:12,184 [INFO] Stitching radar tile 28/36..
+2025-06-16 03:44:12,185 [INFO] Stitching radar tile 29/36..
+2025-06-16 03:44:12,185 [INFO] Stitching radar tile 30/36..
+2025-06-16 03:44:12,185 [INFO] Stitching radar tile 31/36..
+2025-06-16 03:44:12,185 [INFO] Stitching radar tile 32/36..
+2025-06-16 03:44:12,185 [INFO] Stitching radar tile 33/36..
+2025-06-16 03:44:12,185 [INFO] Stitching radar tile 34/36..
+2025-06-16 03:44:12,185 [INFO] Stitching radar tile 35/36..
+2025-06-16 03:44:12,185 [INFO] Compositing frame 1/1
+2025-06-16 03:49:16,670 [INFO] Creating radar frames..
+2025-06-16 03:49:16,929 [INFO] Cleared 1 radar frames.
+2025-06-16 03:49:24,110 [INFO] Stitching radar tile 0/36..
+2025-06-16 03:49:24,310 [INFO] Stitching radar tile 1/36..
+2025-06-16 03:49:24,310 [INFO] Stitching radar tile 2/36..
+2025-06-16 03:49:24,310 [INFO] Stitching radar tile 3/36..
+2025-06-16 03:49:24,310 [INFO] Stitching radar tile 4/36..
+2025-06-16 03:49:24,310 [INFO] Stitching radar tile 5/36..
+2025-06-16 03:49:24,310 [INFO] Stitching radar tile 6/36..
+2025-06-16 03:49:24,310 [INFO] Stitching radar tile 7/36..
+2025-06-16 03:49:24,310 [INFO] Stitching radar tile 8/36..
+2025-06-16 03:49:24,311 [INFO] Stitching radar tile 9/36..
+2025-06-16 03:49:24,311 [INFO] Stitching radar tile 10/36..
+2025-06-16 03:49:24,311 [INFO] Stitching radar tile 11/36..
+2025-06-16 03:49:24,311 [INFO] Stitching radar tile 12/36..
+2025-06-16 03:49:24,311 [INFO] Stitching radar tile 13/36..
+2025-06-16 03:49:24,311 [INFO] Stitching radar tile 14/36..
+2025-06-16 03:49:24,311 [INFO] Stitching radar tile 15/36..
+2025-06-16 03:49:24,311 [INFO] Stitching radar tile 16/36..
+2025-06-16 03:49:24,311 [INFO] Stitching radar tile 17/36..
+2025-06-16 03:49:24,312 [INFO] Stitching radar tile 18/36..
+2025-06-16 03:49:24,312 [INFO] Stitching radar tile 19/36..
+2025-06-16 03:49:24,312 [INFO] Stitching radar tile 20/36..
+2025-06-16 03:49:24,312 [INFO] Stitching radar tile 21/36..
+2025-06-16 03:49:24,312 [INFO] Stitching radar tile 22/36..
+2025-06-16 03:49:24,313 [INFO] Stitching radar tile 23/36..
+2025-06-16 03:49:24,313 [INFO] Stitching radar tile 24/36..
+2025-06-16 03:49:24,313 [INFO] Stitching radar tile 25/36..
+2025-06-16 03:49:24,313 [INFO] Stitching radar tile 26/36..
+2025-06-16 03:49:24,313 [INFO] Stitching radar tile 27/36..
+2025-06-16 03:49:24,313 [INFO] Stitching radar tile 28/36..
+2025-06-16 03:49:24,313 [INFO] Stitching radar tile 29/36..
+2025-06-16 03:49:24,313 [INFO] Stitching radar tile 30/36..
+2025-06-16 03:49:24,313 [INFO] Stitching radar tile 31/36..
+2025-06-16 03:49:24,314 [INFO] Stitching radar tile 32/36..
+2025-06-16 03:49:24,314 [INFO] Stitching radar tile 33/36..
+2025-06-16 03:49:24,314 [INFO] Stitching radar tile 34/36..
+2025-06-16 03:49:24,314 [INFO] Stitching radar tile 35/36..
+2025-06-16 03:49:24,314 [INFO] Compositing frame 1/1
+2025-06-16 03:54:28,835 [INFO] Creating radar frames..
+2025-06-16 03:54:29,099 [INFO] Cleared 1 radar frames.
+2025-06-16 03:54:36,031 [INFO] Stitching radar tile 0/36..
+2025-06-16 03:54:36,232 [INFO] Stitching radar tile 1/36..
+2025-06-16 03:54:36,232 [INFO] Stitching radar tile 2/36..
+2025-06-16 03:54:36,232 [INFO] Stitching radar tile 3/36..
+2025-06-16 03:54:36,232 [INFO] Stitching radar tile 4/36..
+2025-06-16 03:54:36,232 [INFO] Stitching radar tile 5/36..
+2025-06-16 03:54:36,232 [INFO] Stitching radar tile 6/36..
+2025-06-16 03:54:36,233 [INFO] Stitching radar tile 7/36..
+2025-06-16 03:54:36,233 [INFO] Stitching radar tile 8/36..
+2025-06-16 03:54:36,233 [INFO] Stitching radar tile 9/36..
+2025-06-16 03:54:36,233 [INFO] Stitching radar tile 10/36..
+2025-06-16 03:54:36,233 [INFO] Stitching radar tile 11/36..
+2025-06-16 03:54:36,233 [INFO] Stitching radar tile 12/36..
+2025-06-16 03:54:36,233 [INFO] Stitching radar tile 13/36..
+2025-06-16 03:54:36,233 [INFO] Stitching radar tile 14/36..
+2025-06-16 03:54:36,234 [INFO] Stitching radar tile 15/36..
+2025-06-16 03:54:36,234 [INFO] Stitching radar tile 16/36..
+2025-06-16 03:54:36,234 [INFO] Stitching radar tile 17/36..
+2025-06-16 03:54:36,234 [INFO] Stitching radar tile 18/36..
+2025-06-16 03:54:36,234 [INFO] Stitching radar tile 19/36..
+2025-06-16 03:54:36,234 [INFO] Stitching radar tile 20/36..
+2025-06-16 03:54:36,234 [INFO] Stitching radar tile 21/36..
+2025-06-16 03:54:36,234 [INFO] Stitching radar tile 22/36..
+2025-06-16 03:54:36,235 [INFO] Stitching radar tile 23/36..
+2025-06-16 03:54:36,235 [INFO] Stitching radar tile 24/36..
+2025-06-16 03:54:36,235 [INFO] Stitching radar tile 25/36..
+2025-06-16 03:54:36,235 [INFO] Stitching radar tile 26/36..
+2025-06-16 03:54:36,235 [INFO] Stitching radar tile 27/36..
+2025-06-16 03:54:36,235 [INFO] Stitching radar tile 28/36..
+2025-06-16 03:54:36,235 [INFO] Stitching radar tile 29/36..
+2025-06-16 03:54:36,235 [INFO] Stitching radar tile 30/36..
+2025-06-16 03:54:36,235 [INFO] Stitching radar tile 31/36..
+2025-06-16 03:54:36,235 [INFO] Stitching radar tile 32/36..
+2025-06-16 03:54:36,236 [INFO] Stitching radar tile 33/36..
+2025-06-16 03:54:36,236 [INFO] Stitching radar tile 34/36..
+2025-06-16 03:54:36,236 [INFO] Stitching radar tile 35/36..
+2025-06-16 03:54:36,236 [INFO] Compositing frame 1/1
+2025-06-16 03:59:40,699 [INFO] Creating radar frames..
+2025-06-16 03:59:40,966 [INFO] Cleared 1 radar frames.
+2025-06-16 03:59:47,135 [INFO] Stitching radar tile 0/36..
+2025-06-16 03:59:47,337 [INFO] Stitching radar tile 1/36..
+2025-06-16 03:59:47,337 [INFO] Stitching radar tile 2/36..
+2025-06-16 03:59:47,337 [INFO] Stitching radar tile 3/36..
+2025-06-16 03:59:47,337 [INFO] Stitching radar tile 4/36..
+2025-06-16 03:59:47,337 [INFO] Stitching radar tile 5/36..
+2025-06-16 03:59:47,337 [INFO] Stitching radar tile 6/36..
+2025-06-16 03:59:47,337 [INFO] Stitching radar tile 7/36..
+2025-06-16 03:59:47,338 [INFO] Stitching radar tile 8/36..
+2025-06-16 03:59:47,338 [INFO] Stitching radar tile 9/36..
+2025-06-16 03:59:47,338 [INFO] Stitching radar tile 10/36..
+2025-06-16 03:59:47,338 [INFO] Stitching radar tile 11/36..
+2025-06-16 03:59:47,338 [INFO] Stitching radar tile 12/36..
+2025-06-16 03:59:47,338 [INFO] Stitching radar tile 13/36..
+2025-06-16 03:59:47,338 [INFO] Stitching radar tile 14/36..
+2025-06-16 03:59:47,338 [INFO] Stitching radar tile 15/36..
+2025-06-16 03:59:47,339 [INFO] Stitching radar tile 16/36..
+2025-06-16 03:59:47,339 [INFO] Stitching radar tile 17/36..
+2025-06-16 03:59:47,339 [INFO] Stitching radar tile 18/36..
+2025-06-16 03:59:47,339 [INFO] Stitching radar tile 19/36..
+2025-06-16 03:59:47,339 [INFO] Stitching radar tile 20/36..
+2025-06-16 03:59:47,339 [INFO] Stitching radar tile 21/36..
+2025-06-16 03:59:47,339 [INFO] Stitching radar tile 22/36..
+2025-06-16 03:59:47,340 [INFO] Stitching radar tile 23/36..
+2025-06-16 03:59:47,340 [INFO] Stitching radar tile 24/36..
+2025-06-16 03:59:47,340 [INFO] Stitching radar tile 25/36..
+2025-06-16 03:59:47,340 [INFO] Stitching radar tile 26/36..
+2025-06-16 03:59:47,340 [INFO] Stitching radar tile 27/36..
+2025-06-16 03:59:47,340 [INFO] Stitching radar tile 28/36..
+2025-06-16 03:59:47,340 [INFO] Stitching radar tile 29/36..
+2025-06-16 03:59:47,340 [INFO] Stitching radar tile 30/36..
+2025-06-16 03:59:47,340 [INFO] Stitching radar tile 31/36..
+2025-06-16 03:59:47,340 [INFO] Stitching radar tile 32/36..
+2025-06-16 03:59:47,341 [INFO] Stitching radar tile 33/36..
+2025-06-16 03:59:47,341 [INFO] Stitching radar tile 34/36..
+2025-06-16 03:59:47,341 [INFO] Stitching radar tile 35/36..
+2025-06-16 03:59:47,341 [INFO] Compositing frame 1/1
+2025-06-16 04:04:51,747 [INFO] Creating radar frames..
+2025-06-16 04:04:52,016 [INFO] Cleared 1 radar frames.
+2025-06-16 04:04:58,868 [INFO] Stitching radar tile 0/36..
+2025-06-16 04:04:59,067 [INFO] Stitching radar tile 1/36..
+2025-06-16 04:04:59,067 [INFO] Stitching radar tile 2/36..
+2025-06-16 04:04:59,067 [INFO] Stitching radar tile 3/36..
+2025-06-16 04:04:59,067 [INFO] Stitching radar tile 4/36..
+2025-06-16 04:04:59,067 [INFO] Stitching radar tile 5/36..
+2025-06-16 04:04:59,067 [INFO] Stitching radar tile 6/36..
+2025-06-16 04:04:59,068 [INFO] Stitching radar tile 7/36..
+2025-06-16 04:04:59,068 [INFO] Stitching radar tile 8/36..
+2025-06-16 04:04:59,068 [INFO] Stitching radar tile 9/36..
+2025-06-16 04:04:59,068 [INFO] Stitching radar tile 10/36..
+2025-06-16 04:04:59,068 [INFO] Stitching radar tile 11/36..
+2025-06-16 04:04:59,068 [INFO] Stitching radar tile 12/36..
+2025-06-16 04:04:59,068 [INFO] Stitching radar tile 13/36..
+2025-06-16 04:04:59,069 [INFO] Stitching radar tile 14/36..
+2025-06-16 04:04:59,069 [INFO] Stitching radar tile 15/36..
+2025-06-16 04:04:59,069 [INFO] Stitching radar tile 16/36..
+2025-06-16 04:04:59,069 [INFO] Stitching radar tile 17/36..
+2025-06-16 04:04:59,069 [INFO] Stitching radar tile 18/36..
+2025-06-16 04:04:59,069 [INFO] Stitching radar tile 19/36..
+2025-06-16 04:04:59,069 [INFO] Stitching radar tile 20/36..
+2025-06-16 04:04:59,069 [INFO] Stitching radar tile 21/36..
+2025-06-16 04:04:59,070 [INFO] Stitching radar tile 22/36..
+2025-06-16 04:04:59,070 [INFO] Stitching radar tile 23/36..
+2025-06-16 04:04:59,070 [INFO] Stitching radar tile 24/36..
+2025-06-16 04:04:59,070 [INFO] Stitching radar tile 25/36..
+2025-06-16 04:04:59,070 [INFO] Stitching radar tile 26/36..
+2025-06-16 04:04:59,070 [INFO] Stitching radar tile 27/36..
+2025-06-16 04:04:59,070 [INFO] Stitching radar tile 28/36..
+2025-06-16 04:04:59,070 [INFO] Stitching radar tile 29/36..
+2025-06-16 04:04:59,071 [INFO] Stitching radar tile 30/36..
+2025-06-16 04:04:59,071 [INFO] Stitching radar tile 31/36..
+2025-06-16 04:04:59,071 [INFO] Stitching radar tile 32/36..
+2025-06-16 04:04:59,071 [INFO] Stitching radar tile 33/36..
+2025-06-16 04:04:59,071 [INFO] Stitching radar tile 34/36..
+2025-06-16 04:04:59,071 [INFO] Stitching radar tile 35/36..
+2025-06-16 04:04:59,071 [INFO] Compositing frame 1/1
+2025-06-16 04:10:03,555 [INFO] Creating radar frames..
+2025-06-16 04:10:03,820 [INFO] Cleared 1 radar frames.
+2025-06-16 04:10:09,946 [INFO] Stitching radar tile 0/36..
+2025-06-16 04:10:10,146 [INFO] Stitching radar tile 1/36..
+2025-06-16 04:10:10,146 [INFO] Stitching radar tile 2/36..
+2025-06-16 04:10:10,146 [INFO] Stitching radar tile 3/36..
+2025-06-16 04:10:10,146 [INFO] Stitching radar tile 4/36..
+2025-06-16 04:10:10,146 [INFO] Stitching radar tile 5/36..
+2025-06-16 04:10:10,146 [INFO] Stitching radar tile 6/36..
+2025-06-16 04:10:10,147 [INFO] Stitching radar tile 7/36..
+2025-06-16 04:10:10,147 [INFO] Stitching radar tile 8/36..
+2025-06-16 04:10:10,147 [INFO] Stitching radar tile 9/36..
+2025-06-16 04:10:10,147 [INFO] Stitching radar tile 10/36..
+2025-06-16 04:10:10,147 [INFO] Stitching radar tile 11/36..
+2025-06-16 04:10:10,147 [INFO] Stitching radar tile 12/36..
+2025-06-16 04:10:10,148 [INFO] Stitching radar tile 13/36..
+2025-06-16 04:10:10,148 [INFO] Stitching radar tile 14/36..
+2025-06-16 04:10:10,148 [INFO] Stitching radar tile 15/36..
+2025-06-16 04:10:10,148 [INFO] Stitching radar tile 16/36..
+2025-06-16 04:10:10,148 [INFO] Stitching radar tile 17/36..
+2025-06-16 04:10:10,148 [INFO] Stitching radar tile 18/36..
+2025-06-16 04:10:10,148 [INFO] Stitching radar tile 19/36..
+2025-06-16 04:10:10,148 [INFO] Stitching radar tile 20/36..
+2025-06-16 04:10:10,148 [INFO] Stitching radar tile 21/36..
+2025-06-16 04:10:10,149 [INFO] Stitching radar tile 22/36..
+2025-06-16 04:10:10,149 [INFO] Stitching radar tile 23/36..
+2025-06-16 04:10:10,149 [INFO] Stitching radar tile 24/36..
+2025-06-16 04:10:10,149 [INFO] Stitching radar tile 25/36..
+2025-06-16 04:10:10,149 [INFO] Stitching radar tile 26/36..
+2025-06-16 04:10:10,149 [INFO] Stitching radar tile 27/36..
+2025-06-16 04:10:10,149 [INFO] Stitching radar tile 28/36..
+2025-06-16 04:10:10,149 [INFO] Stitching radar tile 29/36..
+2025-06-16 04:10:10,149 [INFO] Stitching radar tile 30/36..
+2025-06-16 04:10:10,150 [INFO] Stitching radar tile 31/36..
+2025-06-16 04:10:10,150 [INFO] Stitching radar tile 32/36..
+2025-06-16 04:10:10,150 [INFO] Stitching radar tile 33/36..
+2025-06-16 04:10:10,150 [INFO] Stitching radar tile 34/36..
+2025-06-16 04:10:10,150 [INFO] Stitching radar tile 35/36..
+2025-06-16 04:10:10,150 [INFO] Compositing frame 1/1
+2025-06-16 04:15:14,538 [INFO] Creating radar frames..
+2025-06-16 04:15:14,804 [INFO] Cleared 1 radar frames.
+2025-06-16 04:15:21,089 [INFO] Stitching radar tile 0/36..
+2025-06-16 04:15:21,288 [INFO] Stitching radar tile 1/36..
+2025-06-16 04:15:21,289 [INFO] Stitching radar tile 2/36..
+2025-06-16 04:15:21,289 [INFO] Stitching radar tile 3/36..
+2025-06-16 04:15:21,289 [INFO] Stitching radar tile 4/36..
+2025-06-16 04:15:21,289 [INFO] Stitching radar tile 5/36..
+2025-06-16 04:15:21,289 [INFO] Stitching radar tile 6/36..
+2025-06-16 04:15:21,289 [INFO] Stitching radar tile 7/36..
+2025-06-16 04:15:21,289 [INFO] Stitching radar tile 8/36..
+2025-06-16 04:15:21,289 [INFO] Stitching radar tile 9/36..
+2025-06-16 04:15:21,290 [INFO] Stitching radar tile 10/36..
+2025-06-16 04:15:21,290 [INFO] Stitching radar tile 11/36..
+2025-06-16 04:15:21,290 [INFO] Stitching radar tile 12/36..
+2025-06-16 04:15:21,290 [INFO] Stitching radar tile 13/36..
+2025-06-16 04:15:21,290 [INFO] Stitching radar tile 14/36..
+2025-06-16 04:15:21,290 [INFO] Stitching radar tile 15/36..
+2025-06-16 04:15:21,290 [INFO] Stitching radar tile 16/36..
+2025-06-16 04:15:21,291 [INFO] Stitching radar tile 17/36..
+2025-06-16 04:15:21,291 [INFO] Stitching radar tile 18/36..
+2025-06-16 04:15:21,291 [INFO] Stitching radar tile 19/36..
+2025-06-16 04:15:21,291 [INFO] Stitching radar tile 20/36..
+2025-06-16 04:15:21,291 [INFO] Stitching radar tile 21/36..
+2025-06-16 04:15:21,291 [INFO] Stitching radar tile 22/36..
+2025-06-16 04:15:21,291 [INFO] Stitching radar tile 23/36..
+2025-06-16 04:15:21,291 [INFO] Stitching radar tile 24/36..
+2025-06-16 04:15:21,291 [INFO] Stitching radar tile 25/36..
+2025-06-16 04:15:21,292 [INFO] Stitching radar tile 26/36..
+2025-06-16 04:15:21,292 [INFO] Stitching radar tile 27/36..
+2025-06-16 04:15:21,292 [INFO] Stitching radar tile 28/36..
+2025-06-16 04:15:21,292 [INFO] Stitching radar tile 29/36..
+2025-06-16 04:15:21,292 [INFO] Stitching radar tile 30/36..
+2025-06-16 04:15:21,292 [INFO] Stitching radar tile 31/36..
+2025-06-16 04:15:21,292 [INFO] Stitching radar tile 32/36..
+2025-06-16 04:15:21,292 [INFO] Stitching radar tile 33/36..
+2025-06-16 04:15:21,293 [INFO] Stitching radar tile 34/36..
+2025-06-16 04:15:21,293 [INFO] Stitching radar tile 35/36..
+2025-06-16 04:15:21,293 [INFO] Compositing frame 1/1
+2025-06-16 04:20:25,820 [INFO] Creating radar frames..
+2025-06-16 04:20:26,058 [INFO] Cleared 1 radar frames.
+2025-06-16 04:20:31,794 [INFO] Stitching radar tile 0/36..
+2025-06-16 04:20:31,992 [INFO] Stitching radar tile 1/36..
+2025-06-16 04:20:31,993 [INFO] Stitching radar tile 2/36..
+2025-06-16 04:20:31,993 [INFO] Stitching radar tile 3/36..
+2025-06-16 04:20:31,994 [INFO] Stitching radar tile 4/36..
+2025-06-16 04:20:31,994 [INFO] Stitching radar tile 5/36..
+2025-06-16 04:20:31,994 [INFO] Stitching radar tile 6/36..
+2025-06-16 04:20:31,994 [INFO] Stitching radar tile 7/36..
+2025-06-16 04:20:31,994 [INFO] Stitching radar tile 8/36..
+2025-06-16 04:20:31,994 [INFO] Stitching radar tile 9/36..
+2025-06-16 04:20:31,995 [INFO] Stitching radar tile 10/36..
+2025-06-16 04:20:31,995 [INFO] Stitching radar tile 11/36..
+2025-06-16 04:20:31,995 [INFO] Stitching radar tile 12/36..
+2025-06-16 04:20:31,995 [INFO] Stitching radar tile 13/36..
+2025-06-16 04:20:31,995 [INFO] Stitching radar tile 14/36..
+2025-06-16 04:20:31,995 [INFO] Stitching radar tile 15/36..
+2025-06-16 04:20:31,995 [INFO] Stitching radar tile 16/36..
+2025-06-16 04:20:31,995 [INFO] Stitching radar tile 17/36..
+2025-06-16 04:20:31,996 [INFO] Stitching radar tile 18/36..
+2025-06-16 04:20:31,996 [INFO] Stitching radar tile 19/36..
+2025-06-16 04:20:31,996 [INFO] Stitching radar tile 20/36..
+2025-06-16 04:20:31,996 [INFO] Stitching radar tile 21/36..
+2025-06-16 04:20:31,996 [INFO] Stitching radar tile 22/36..
+2025-06-16 04:20:31,996 [INFO] Stitching radar tile 23/36..
+2025-06-16 04:20:31,996 [INFO] Stitching radar tile 24/36..
+2025-06-16 04:20:31,996 [INFO] Stitching radar tile 25/36..
+2025-06-16 04:20:31,996 [INFO] Stitching radar tile 26/36..
+2025-06-16 04:20:31,997 [INFO] Stitching radar tile 27/36..
+2025-06-16 04:20:31,997 [INFO] Stitching radar tile 28/36..
+2025-06-16 04:20:31,997 [INFO] Stitching radar tile 29/36..
+2025-06-16 04:20:31,997 [INFO] Stitching radar tile 30/36..
+2025-06-16 04:20:31,997 [INFO] Stitching radar tile 31/36..
+2025-06-16 04:20:31,997 [INFO] Stitching radar tile 32/36..
+2025-06-16 04:20:31,997 [INFO] Stitching radar tile 33/36..
+2025-06-16 04:20:31,997 [INFO] Stitching radar tile 34/36..
+2025-06-16 04:20:31,997 [INFO] Stitching radar tile 35/36..
+2025-06-16 04:20:31,998 [INFO] Compositing frame 1/1
+2025-06-16 04:25:36,377 [INFO] Creating radar frames..
+2025-06-16 04:25:36,636 [INFO] Cleared 1 radar frames.
+2025-06-16 04:25:43,214 [INFO] Stitching radar tile 0/36..
+2025-06-16 04:25:43,410 [INFO] Stitching radar tile 1/36..
+2025-06-16 04:25:43,411 [INFO] Stitching radar tile 2/36..
+2025-06-16 04:25:43,411 [INFO] Stitching radar tile 3/36..
+2025-06-16 04:25:43,411 [INFO] Stitching radar tile 4/36..
+2025-06-16 04:25:43,411 [INFO] Stitching radar tile 5/36..
+2025-06-16 04:25:43,411 [INFO] Stitching radar tile 6/36..
+2025-06-16 04:25:43,411 [INFO] Stitching radar tile 7/36..
+2025-06-16 04:25:43,411 [INFO] Stitching radar tile 8/36..
+2025-06-16 04:25:43,411 [INFO] Stitching radar tile 9/36..
+2025-06-16 04:25:43,412 [INFO] Stitching radar tile 10/36..
+2025-06-16 04:25:43,412 [INFO] Stitching radar tile 11/36..
+2025-06-16 04:25:43,412 [INFO] Stitching radar tile 12/36..
+2025-06-16 04:25:43,412 [INFO] Stitching radar tile 13/36..
+2025-06-16 04:25:43,412 [INFO] Stitching radar tile 14/36..
+2025-06-16 04:25:43,412 [INFO] Stitching radar tile 15/36..
+2025-06-16 04:25:43,413 [INFO] Stitching radar tile 16/36..
+2025-06-16 04:25:43,413 [INFO] Stitching radar tile 17/36..
+2025-06-16 04:25:43,413 [INFO] Stitching radar tile 18/36..
+2025-06-16 04:25:43,413 [INFO] Stitching radar tile 19/36..
+2025-06-16 04:25:43,413 [INFO] Stitching radar tile 20/36..
+2025-06-16 04:25:43,413 [INFO] Stitching radar tile 21/36..
+2025-06-16 04:25:43,413 [INFO] Stitching radar tile 22/36..
+2025-06-16 04:25:43,413 [INFO] Stitching radar tile 23/36..
+2025-06-16 04:25:43,414 [INFO] Stitching radar tile 24/36..
+2025-06-16 04:25:43,414 [INFO] Stitching radar tile 25/36..
+2025-06-16 04:25:43,414 [INFO] Stitching radar tile 26/36..
+2025-06-16 04:25:43,414 [INFO] Stitching radar tile 27/36..
+2025-06-16 04:25:43,414 [INFO] Stitching radar tile 28/36..
+2025-06-16 04:25:43,414 [INFO] Stitching radar tile 29/36..
+2025-06-16 04:25:43,414 [INFO] Stitching radar tile 30/36..
+2025-06-16 04:25:43,414 [INFO] Stitching radar tile 31/36..
+2025-06-16 04:25:43,415 [INFO] Stitching radar tile 32/36..
+2025-06-16 04:25:43,415 [INFO] Stitching radar tile 33/36..
+2025-06-16 04:25:43,415 [INFO] Stitching radar tile 34/36..
+2025-06-16 04:25:43,415 [INFO] Stitching radar tile 35/36..
+2025-06-16 04:25:43,415 [INFO] Compositing frame 1/1
+2025-06-16 04:30:47,859 [INFO] Creating radar frames..
+2025-06-16 04:30:48,103 [INFO] Cleared 1 radar frames.
+2025-06-16 04:30:53,677 [INFO] Stitching radar tile 0/36..
+2025-06-16 04:30:53,876 [INFO] Stitching radar tile 1/36..
+2025-06-16 04:30:53,877 [INFO] Stitching radar tile 2/36..
+2025-06-16 04:30:53,877 [INFO] Stitching radar tile 3/36..
+2025-06-16 04:30:53,877 [INFO] Stitching radar tile 4/36..
+2025-06-16 04:30:53,877 [INFO] Stitching radar tile 5/36..
+2025-06-16 04:30:53,877 [INFO] Stitching radar tile 6/36..
+2025-06-16 04:30:53,877 [INFO] Stitching radar tile 7/36..
+2025-06-16 04:30:53,877 [INFO] Stitching radar tile 8/36..
+2025-06-16 04:30:53,878 [INFO] Stitching radar tile 9/36..
+2025-06-16 04:30:53,878 [INFO] Stitching radar tile 10/36..
+2025-06-16 04:30:53,878 [INFO] Stitching radar tile 11/36..
+2025-06-16 04:30:53,878 [INFO] Stitching radar tile 12/36..
+2025-06-16 04:30:53,878 [INFO] Stitching radar tile 13/36..
+2025-06-16 04:30:53,878 [INFO] Stitching radar tile 14/36..
+2025-06-16 04:30:53,878 [INFO] Stitching radar tile 15/36..
+2025-06-16 04:30:53,879 [INFO] Stitching radar tile 16/36..
+2025-06-16 04:30:53,879 [INFO] Stitching radar tile 17/36..
+2025-06-16 04:30:53,879 [INFO] Stitching radar tile 18/36..
+2025-06-16 04:30:53,879 [INFO] Stitching radar tile 19/36..
+2025-06-16 04:30:53,879 [INFO] Stitching radar tile 20/36..
+2025-06-16 04:30:53,879 [INFO] Stitching radar tile 21/36..
+2025-06-16 04:30:53,880 [INFO] Stitching radar tile 22/36..
+2025-06-16 04:30:53,880 [INFO] Stitching radar tile 23/36..
+2025-06-16 04:30:53,880 [INFO] Stitching radar tile 24/36..
+2025-06-16 04:30:53,880 [INFO] Stitching radar tile 25/36..
+2025-06-16 04:30:53,880 [INFO] Stitching radar tile 26/36..
+2025-06-16 04:30:53,880 [INFO] Stitching radar tile 27/36..
+2025-06-16 04:30:53,880 [INFO] Stitching radar tile 28/36..
+2025-06-16 04:30:53,880 [INFO] Stitching radar tile 29/36..
+2025-06-16 04:30:53,881 [INFO] Stitching radar tile 30/36..
+2025-06-16 04:30:53,881 [INFO] Stitching radar tile 31/36..
+2025-06-16 04:30:53,881 [INFO] Stitching radar tile 32/36..
+2025-06-16 04:30:53,881 [INFO] Stitching radar tile 33/36..
+2025-06-16 04:30:53,881 [INFO] Stitching radar tile 34/36..
+2025-06-16 04:30:53,881 [INFO] Stitching radar tile 35/36..
+2025-06-16 04:30:53,881 [INFO] Compositing frame 1/1
+2025-06-16 04:35:58,357 [INFO] Creating radar frames..
+2025-06-16 04:35:58,610 [INFO] Cleared 1 radar frames.
+2025-06-16 04:36:04,507 [INFO] Stitching radar tile 0/36..
+2025-06-16 04:36:04,708 [INFO] Stitching radar tile 1/36..
+2025-06-16 04:36:04,708 [INFO] Stitching radar tile 2/36..
+2025-06-16 04:36:04,708 [INFO] Stitching radar tile 3/36..
+2025-06-16 04:36:04,708 [INFO] Stitching radar tile 4/36..
+2025-06-16 04:36:04,709 [INFO] Stitching radar tile 5/36..
+2025-06-16 04:36:04,709 [INFO] Stitching radar tile 6/36..
+2025-06-16 04:36:04,709 [INFO] Stitching radar tile 7/36..
+2025-06-16 04:36:04,709 [INFO] Stitching radar tile 8/36..
+2025-06-16 04:36:04,709 [INFO] Stitching radar tile 9/36..
+2025-06-16 04:36:04,709 [INFO] Stitching radar tile 10/36..
+2025-06-16 04:36:04,709 [INFO] Stitching radar tile 11/36..
+2025-06-16 04:36:04,709 [INFO] Stitching radar tile 12/36..
+2025-06-16 04:36:04,710 [INFO] Stitching radar tile 13/36..
+2025-06-16 04:36:04,710 [INFO] Stitching radar tile 14/36..
+2025-06-16 04:36:04,710 [INFO] Stitching radar tile 15/36..
+2025-06-16 04:36:04,711 [INFO] Stitching radar tile 16/36..
+2025-06-16 04:36:04,711 [INFO] Stitching radar tile 17/36..
+2025-06-16 04:36:04,711 [INFO] Stitching radar tile 18/36..
+2025-06-16 04:36:04,711 [INFO] Stitching radar tile 19/36..
+2025-06-16 04:36:04,711 [INFO] Stitching radar tile 20/36..
+2025-06-16 04:36:04,711 [INFO] Stitching radar tile 21/36..
+2025-06-16 04:36:04,711 [INFO] Stitching radar tile 22/36..
+2025-06-16 04:36:04,711 [INFO] Stitching radar tile 23/36..
+2025-06-16 04:36:04,712 [INFO] Stitching radar tile 24/36..
+2025-06-16 04:36:04,712 [INFO] Stitching radar tile 25/36..
+2025-06-16 04:36:04,712 [INFO] Stitching radar tile 26/36..
+2025-06-16 04:36:04,712 [INFO] Stitching radar tile 27/36..
+2025-06-16 04:36:04,712 [INFO] Stitching radar tile 28/36..
+2025-06-16 04:36:04,712 [INFO] Stitching radar tile 29/36..
+2025-06-16 04:36:04,712 [INFO] Stitching radar tile 30/36..
+2025-06-16 04:36:04,712 [INFO] Stitching radar tile 31/36..
+2025-06-16 04:36:04,713 [INFO] Stitching radar tile 32/36..
+2025-06-16 04:36:04,713 [INFO] Stitching radar tile 33/36..
+2025-06-16 04:36:04,713 [INFO] Stitching radar tile 34/36..
+2025-06-16 04:36:04,713 [INFO] Stitching radar tile 35/36..
+2025-06-16 04:36:04,713 [INFO] Compositing frame 1/1
+2025-06-16 04:41:09,204 [INFO] Creating radar frames..
+2025-06-16 04:41:09,463 [INFO] Cleared 1 radar frames.
+2025-06-16 04:41:14,488 [INFO] Stitching radar tile 0/36..
+2025-06-16 04:41:14,686 [INFO] Stitching radar tile 1/36..
+2025-06-16 04:41:14,686 [INFO] Stitching radar tile 2/36..
+2025-06-16 04:41:14,686 [INFO] Stitching radar tile 3/36..
+2025-06-16 04:41:14,686 [INFO] Stitching radar tile 4/36..
+2025-06-16 04:41:14,686 [INFO] Stitching radar tile 5/36..
+2025-06-16 04:41:14,686 [INFO] Stitching radar tile 6/36..
+2025-06-16 04:41:14,687 [INFO] Stitching radar tile 7/36..
+2025-06-16 04:41:14,687 [INFO] Stitching radar tile 8/36..
+2025-06-16 04:41:14,687 [INFO] Stitching radar tile 9/36..
+2025-06-16 04:41:14,687 [INFO] Stitching radar tile 10/36..
+2025-06-16 04:41:14,687 [INFO] Stitching radar tile 11/36..
+2025-06-16 04:41:14,687 [INFO] Stitching radar tile 12/36..
+2025-06-16 04:41:14,687 [INFO] Stitching radar tile 13/36..
+2025-06-16 04:41:14,687 [INFO] Stitching radar tile 14/36..
+2025-06-16 04:41:14,688 [INFO] Stitching radar tile 15/36..
+2025-06-16 04:41:14,688 [INFO] Stitching radar tile 16/36..
+2025-06-16 04:41:14,688 [INFO] Stitching radar tile 17/36..
+2025-06-16 04:41:14,688 [INFO] Stitching radar tile 18/36..
+2025-06-16 04:41:14,688 [INFO] Stitching radar tile 19/36..
+2025-06-16 04:41:14,688 [INFO] Stitching radar tile 20/36..
+2025-06-16 04:41:14,688 [INFO] Stitching radar tile 21/36..
+2025-06-16 04:41:14,688 [INFO] Stitching radar tile 22/36..
+2025-06-16 04:41:14,689 [INFO] Stitching radar tile 23/36..
+2025-06-16 04:41:14,689 [INFO] Stitching radar tile 24/36..
+2025-06-16 04:41:14,689 [INFO] Stitching radar tile 25/36..
+2025-06-16 04:41:14,690 [INFO] Stitching radar tile 26/36..
+2025-06-16 04:41:14,690 [INFO] Stitching radar tile 27/36..
+2025-06-16 04:41:14,690 [INFO] Stitching radar tile 28/36..
+2025-06-16 04:41:14,690 [INFO] Stitching radar tile 29/36..
+2025-06-16 04:41:14,690 [INFO] Stitching radar tile 30/36..
+2025-06-16 04:41:14,690 [INFO] Stitching radar tile 31/36..
+2025-06-16 04:41:14,690 [INFO] Stitching radar tile 32/36..
+2025-06-16 04:41:14,691 [INFO] Stitching radar tile 33/36..
+2025-06-16 04:41:14,691 [INFO] Stitching radar tile 34/36..
+2025-06-16 04:41:14,691 [INFO] Stitching radar tile 35/36..
+2025-06-16 04:41:14,691 [INFO] Compositing frame 1/1
+2025-06-16 04:46:19,147 [INFO] Creating radar frames..
+2025-06-16 04:46:19,390 [INFO] Cleared 2 radar frames.
+2025-06-16 04:46:31,310 [INFO] Stitching radar tile 0/36..
+2025-06-16 04:46:31,507 [INFO] Stitching radar tile 1/36..
+2025-06-16 04:46:31,703 [INFO] Stitching radar tile 2/36..
+2025-06-16 04:46:31,703 [INFO] Stitching radar tile 3/36..
+2025-06-16 04:46:31,703 [INFO] Stitching radar tile 4/36..
+2025-06-16 04:46:31,703 [INFO] Stitching radar tile 5/36..
+2025-06-16 04:46:31,703 [INFO] Stitching radar tile 6/36..
+2025-06-16 04:46:31,703 [INFO] Stitching radar tile 7/36..
+2025-06-16 04:46:31,704 [INFO] Stitching radar tile 8/36..
+2025-06-16 04:46:31,704 [INFO] Stitching radar tile 9/36..
+2025-06-16 04:46:31,704 [INFO] Stitching radar tile 10/36..
+2025-06-16 04:46:31,705 [INFO] Stitching radar tile 11/36..
+2025-06-16 04:46:31,705 [INFO] Stitching radar tile 12/36..
+2025-06-16 04:46:31,705 [INFO] Stitching radar tile 13/36..
+2025-06-16 04:46:31,705 [INFO] Stitching radar tile 14/36..
+2025-06-16 04:46:31,705 [INFO] Stitching radar tile 15/36..
+2025-06-16 04:46:31,705 [INFO] Stitching radar tile 16/36..
+2025-06-16 04:46:31,706 [INFO] Stitching radar tile 17/36..
+2025-06-16 04:46:31,706 [INFO] Stitching radar tile 18/36..
+2025-06-16 04:46:31,706 [INFO] Stitching radar tile 19/36..
+2025-06-16 04:46:31,706 [INFO] Stitching radar tile 20/36..
+2025-06-16 04:46:31,706 [INFO] Stitching radar tile 21/36..
+2025-06-16 04:46:31,706 [INFO] Stitching radar tile 22/36..
+2025-06-16 04:46:31,706 [INFO] Stitching radar tile 23/36..
+2025-06-16 04:46:31,707 [INFO] Stitching radar tile 24/36..
+2025-06-16 04:46:31,707 [INFO] Stitching radar tile 25/36..
+2025-06-16 04:46:31,707 [INFO] Stitching radar tile 26/36..
+2025-06-16 04:46:31,707 [INFO] Stitching radar tile 27/36..
+2025-06-16 04:46:31,707 [INFO] Stitching radar tile 28/36..
+2025-06-16 04:46:31,707 [INFO] Stitching radar tile 29/36..
+2025-06-16 04:46:31,707 [INFO] Stitching radar tile 30/36..
+2025-06-16 04:46:31,707 [INFO] Stitching radar tile 31/36..
+2025-06-16 04:46:31,708 [INFO] Stitching radar tile 32/36..
+2025-06-16 04:46:31,708 [INFO] Stitching radar tile 33/36..
+2025-06-16 04:46:31,708 [INFO] Stitching radar tile 34/36..
+2025-06-16 04:46:31,708 [INFO] Stitching radar tile 35/36..
+2025-06-16 04:46:31,708 [INFO] Compositing frame 1/2
+2025-06-16 04:46:35,778 [INFO] Compositing frame 2/2
+2025-06-16 04:51:40,223 [INFO] Creating radar frames..
+2025-06-16 04:51:40,663 [INFO] Cleared 0 radar frames.
+2025-06-16 04:56:40,788 [INFO] Creating radar frames..
+2025-06-16 04:56:41,040 [INFO] Cleared 2 radar frames.
+2025-06-16 04:56:53,671 [INFO] Stitching radar tile 0/36..
+2025-06-16 04:56:53,871 [INFO] Stitching radar tile 1/36..
+2025-06-16 04:56:54,072 [INFO] Stitching radar tile 2/36..
+2025-06-16 04:56:54,073 [INFO] Stitching radar tile 3/36..
+2025-06-16 04:56:54,073 [INFO] Stitching radar tile 4/36..
+2025-06-16 04:56:54,073 [INFO] Stitching radar tile 5/36..
+2025-06-16 04:56:54,073 [INFO] Stitching radar tile 6/36..
+2025-06-16 04:56:54,073 [INFO] Stitching radar tile 7/36..
+2025-06-16 04:56:54,073 [INFO] Stitching radar tile 8/36..
+2025-06-16 04:56:54,074 [INFO] Stitching radar tile 9/36..
+2025-06-16 04:56:54,074 [INFO] Stitching radar tile 10/36..
+2025-06-16 04:56:54,074 [INFO] Stitching radar tile 11/36..
+2025-06-16 04:56:54,074 [INFO] Stitching radar tile 12/36..
+2025-06-16 04:56:54,074 [INFO] Stitching radar tile 13/36..
+2025-06-16 04:56:54,074 [INFO] Stitching radar tile 14/36..
+2025-06-16 04:56:54,074 [INFO] Stitching radar tile 15/36..
+2025-06-16 04:56:54,075 [INFO] Stitching radar tile 16/36..
+2025-06-16 04:56:54,075 [INFO] Stitching radar tile 17/36..
+2025-06-16 04:56:54,076 [INFO] Stitching radar tile 18/36..
+2025-06-16 04:56:54,076 [INFO] Stitching radar tile 19/36..
+2025-06-16 04:56:54,076 [INFO] Stitching radar tile 20/36..
+2025-06-16 04:56:54,076 [INFO] Stitching radar tile 21/36..
+2025-06-16 04:56:54,076 [INFO] Stitching radar tile 22/36..
+2025-06-16 04:56:54,077 [INFO] Stitching radar tile 23/36..
+2025-06-16 04:56:54,077 [INFO] Stitching radar tile 24/36..
+2025-06-16 04:56:54,077 [INFO] Stitching radar tile 25/36..
+2025-06-16 04:56:54,077 [INFO] Stitching radar tile 26/36..
+2025-06-16 04:56:54,077 [INFO] Stitching radar tile 27/36..
+2025-06-16 04:56:54,077 [INFO] Stitching radar tile 28/36..
+2025-06-16 04:56:54,078 [INFO] Stitching radar tile 29/36..
+2025-06-16 04:56:54,078 [INFO] Stitching radar tile 30/36..
+2025-06-16 04:56:54,078 [INFO] Stitching radar tile 31/36..
+2025-06-16 04:56:54,078 [INFO] Stitching radar tile 32/36..
+2025-06-16 04:56:54,078 [INFO] Stitching radar tile 33/36..
+2025-06-16 04:56:54,078 [INFO] Stitching radar tile 34/36..
+2025-06-16 04:56:54,078 [INFO] Stitching radar tile 35/36..
+2025-06-16 04:56:54,079 [INFO] Compositing frame 1/2
+2025-06-16 04:56:58,158 [INFO] Compositing frame 2/2
+2025-06-16 05:02:02,623 [INFO] Creating radar frames..
+2025-06-16 05:02:02,870 [INFO] Cleared 1 radar frames.
+2025-06-16 05:02:10,066 [INFO] Stitching radar tile 0/36..
+2025-06-16 05:02:10,264 [INFO] Stitching radar tile 1/36..
+2025-06-16 05:02:10,264 [INFO] Stitching radar tile 2/36..
+2025-06-16 05:02:10,264 [INFO] Stitching radar tile 3/36..
+2025-06-16 05:02:10,264 [INFO] Stitching radar tile 4/36..
+2025-06-16 05:02:10,264 [INFO] Stitching radar tile 5/36..
+2025-06-16 05:02:10,264 [INFO] Stitching radar tile 6/36..
+2025-06-16 05:02:10,265 [INFO] Stitching radar tile 7/36..
+2025-06-16 05:02:10,265 [INFO] Stitching radar tile 8/36..
+2025-06-16 05:02:10,265 [INFO] Stitching radar tile 9/36..
+2025-06-16 05:02:10,265 [INFO] Stitching radar tile 10/36..
+2025-06-16 05:02:10,265 [INFO] Stitching radar tile 11/36..
+2025-06-16 05:02:10,266 [INFO] Stitching radar tile 12/36..
+2025-06-16 05:02:10,266 [INFO] Stitching radar tile 13/36..
+2025-06-16 05:02:10,266 [INFO] Stitching radar tile 14/36..
+2025-06-16 05:02:10,266 [INFO] Stitching radar tile 15/36..
+2025-06-16 05:02:10,266 [INFO] Stitching radar tile 16/36..
+2025-06-16 05:02:10,267 [INFO] Stitching radar tile 17/36..
+2025-06-16 05:02:10,267 [INFO] Stitching radar tile 18/36..
+2025-06-16 05:02:10,267 [INFO] Stitching radar tile 19/36..
+2025-06-16 05:02:10,267 [INFO] Stitching radar tile 20/36..
+2025-06-16 05:02:10,267 [INFO] Stitching radar tile 21/36..
+2025-06-16 05:02:10,267 [INFO] Stitching radar tile 22/36..
+2025-06-16 05:02:10,267 [INFO] Stitching radar tile 23/36..
+2025-06-16 05:02:10,267 [INFO] Stitching radar tile 24/36..
+2025-06-16 05:02:10,268 [INFO] Stitching radar tile 25/36..
+2025-06-16 05:02:10,268 [INFO] Stitching radar tile 26/36..
+2025-06-16 05:02:10,268 [INFO] Stitching radar tile 27/36..
+2025-06-16 05:02:10,268 [INFO] Stitching radar tile 28/36..
+2025-06-16 05:02:10,268 [INFO] Stitching radar tile 29/36..
+2025-06-16 05:02:10,268 [INFO] Stitching radar tile 30/36..
+2025-06-16 05:02:10,268 [INFO] Stitching radar tile 31/36..
+2025-06-16 05:02:10,269 [INFO] Stitching radar tile 32/36..
+2025-06-16 05:02:10,269 [INFO] Stitching radar tile 33/36..
+2025-06-16 05:02:10,269 [INFO] Stitching radar tile 34/36..
+2025-06-16 05:02:10,269 [INFO] Stitching radar tile 35/36..
+2025-06-16 05:02:10,269 [INFO] Compositing frame 1/1
+2025-06-16 05:07:14,748 [INFO] Creating radar frames..
+2025-06-16 05:07:14,992 [INFO] Cleared 1 radar frames.
+2025-06-16 05:07:23,597 [INFO] Stitching radar tile 0/36..
+2025-06-16 05:07:23,795 [INFO] Stitching radar tile 1/36..
+2025-06-16 05:07:23,795 [INFO] Stitching radar tile 2/36..
+2025-06-16 05:07:23,795 [INFO] Stitching radar tile 3/36..
+2025-06-16 05:07:23,795 [INFO] Stitching radar tile 4/36..
+2025-06-16 05:07:23,795 [INFO] Stitching radar tile 5/36..
+2025-06-16 05:07:23,795 [INFO] Stitching radar tile 6/36..
+2025-06-16 05:07:23,796 [INFO] Stitching radar tile 7/36..
+2025-06-16 05:07:23,796 [INFO] Stitching radar tile 8/36..
+2025-06-16 05:07:23,796 [INFO] Stitching radar tile 9/36..
+2025-06-16 05:07:23,796 [INFO] Stitching radar tile 10/36..
+2025-06-16 05:07:23,796 [INFO] Stitching radar tile 11/36..
+2025-06-16 05:07:23,796 [INFO] Stitching radar tile 12/36..
+2025-06-16 05:07:23,796 [INFO] Stitching radar tile 13/36..
+2025-06-16 05:07:23,796 [INFO] Stitching radar tile 14/36..
+2025-06-16 05:07:23,797 [INFO] Stitching radar tile 15/36..
+2025-06-16 05:07:23,797 [INFO] Stitching radar tile 16/36..
+2025-06-16 05:07:23,797 [INFO] Stitching radar tile 17/36..
+2025-06-16 05:07:23,797 [INFO] Stitching radar tile 18/36..
+2025-06-16 05:07:23,797 [INFO] Stitching radar tile 19/36..
+2025-06-16 05:07:23,798 [INFO] Stitching radar tile 20/36..
+2025-06-16 05:07:23,798 [INFO] Stitching radar tile 21/36..
+2025-06-16 05:07:23,798 [INFO] Stitching radar tile 22/36..
+2025-06-16 05:07:23,798 [INFO] Stitching radar tile 23/36..
+2025-06-16 05:07:23,798 [INFO] Stitching radar tile 24/36..
+2025-06-16 05:07:23,798 [INFO] Stitching radar tile 25/36..
+2025-06-16 05:07:23,798 [INFO] Stitching radar tile 26/36..
+2025-06-16 05:07:23,798 [INFO] Stitching radar tile 27/36..
+2025-06-16 05:07:23,799 [INFO] Stitching radar tile 28/36..
+2025-06-16 05:07:23,799 [INFO] Stitching radar tile 29/36..
+2025-06-16 05:07:23,799 [INFO] Stitching radar tile 30/36..
+2025-06-16 05:07:23,799 [INFO] Stitching radar tile 31/36..
+2025-06-16 05:07:23,799 [INFO] Stitching radar tile 32/36..
+2025-06-16 05:07:23,799 [INFO] Stitching radar tile 33/36..
+2025-06-16 05:07:23,799 [INFO] Stitching radar tile 34/36..
+2025-06-16 05:07:23,799 [INFO] Stitching radar tile 35/36..
+2025-06-16 05:07:23,799 [INFO] Compositing frame 1/1
+2025-06-16 05:12:28,236 [INFO] Creating radar frames..
+2025-06-16 05:12:28,496 [INFO] Cleared 1 radar frames.
+2025-06-16 05:12:36,186 [INFO] Stitching radar tile 0/36..
+2025-06-16 05:12:36,384 [INFO] Stitching radar tile 1/36..
+2025-06-16 05:12:36,384 [INFO] Stitching radar tile 2/36..
+2025-06-16 05:12:36,384 [INFO] Stitching radar tile 3/36..
+2025-06-16 05:12:36,384 [INFO] Stitching radar tile 4/36..
+2025-06-16 05:12:36,384 [INFO] Stitching radar tile 5/36..
+2025-06-16 05:12:36,384 [INFO] Stitching radar tile 6/36..
+2025-06-16 05:12:36,384 [INFO] Stitching radar tile 7/36..
+2025-06-16 05:12:36,385 [INFO] Stitching radar tile 8/36..
+2025-06-16 05:12:36,385 [INFO] Stitching radar tile 9/36..
+2025-06-16 05:12:36,385 [INFO] Stitching radar tile 10/36..
+2025-06-16 05:12:36,385 [INFO] Stitching radar tile 11/36..
+2025-06-16 05:12:36,385 [INFO] Stitching radar tile 12/36..
+2025-06-16 05:12:36,385 [INFO] Stitching radar tile 13/36..
+2025-06-16 05:12:36,385 [INFO] Stitching radar tile 14/36..
+2025-06-16 05:12:36,386 [INFO] Stitching radar tile 15/36..
+2025-06-16 05:12:36,386 [INFO] Stitching radar tile 16/36..
+2025-06-16 05:12:36,386 [INFO] Stitching radar tile 17/36..
+2025-06-16 05:12:36,386 [INFO] Stitching radar tile 18/36..
+2025-06-16 05:12:36,386 [INFO] Stitching radar tile 19/36..
+2025-06-16 05:12:36,386 [INFO] Stitching radar tile 20/36..
+2025-06-16 05:12:36,386 [INFO] Stitching radar tile 21/36..
+2025-06-16 05:12:36,386 [INFO] Stitching radar tile 22/36..
+2025-06-16 05:12:36,387 [INFO] Stitching radar tile 23/36..
+2025-06-16 05:12:36,387 [INFO] Stitching radar tile 24/36..
+2025-06-16 05:12:36,387 [INFO] Stitching radar tile 25/36..
+2025-06-16 05:12:36,387 [INFO] Stitching radar tile 26/36..
+2025-06-16 05:12:36,387 [INFO] Stitching radar tile 27/36..
+2025-06-16 05:12:36,387 [INFO] Stitching radar tile 28/36..
+2025-06-16 05:12:36,387 [INFO] Stitching radar tile 29/36..
+2025-06-16 05:12:36,388 [INFO] Stitching radar tile 30/36..
+2025-06-16 05:12:36,388 [INFO] Stitching radar tile 31/36..
+2025-06-16 05:12:36,388 [INFO] Stitching radar tile 32/36..
+2025-06-16 05:12:36,388 [INFO] Stitching radar tile 33/36..
+2025-06-16 05:12:36,388 [INFO] Stitching radar tile 34/36..
+2025-06-16 05:12:36,388 [INFO] Stitching radar tile 35/36..
+2025-06-16 05:12:36,388 [INFO] Compositing frame 1/1
+2025-06-16 05:17:40,854 [INFO] Creating radar frames..
+2025-06-16 05:17:41,098 [INFO] Cleared 1 radar frames.
+2025-06-16 05:17:48,712 [INFO] Stitching radar tile 0/36..
+2025-06-16 05:17:48,911 [INFO] Stitching radar tile 1/36..
+2025-06-16 05:17:48,912 [INFO] Stitching radar tile 2/36..
+2025-06-16 05:17:48,912 [INFO] Stitching radar tile 3/36..
+2025-06-16 05:17:48,912 [INFO] Stitching radar tile 4/36..
+2025-06-16 05:17:48,912 [INFO] Stitching radar tile 5/36..
+2025-06-16 05:17:48,912 [INFO] Stitching radar tile 6/36..
+2025-06-16 05:17:48,912 [INFO] Stitching radar tile 7/36..
+2025-06-16 05:17:48,912 [INFO] Stitching radar tile 8/36..
+2025-06-16 05:17:48,913 [INFO] Stitching radar tile 9/36..
+2025-06-16 05:17:48,913 [INFO] Stitching radar tile 10/36..
+2025-06-16 05:17:48,913 [INFO] Stitching radar tile 11/36..
+2025-06-16 05:17:48,913 [INFO] Stitching radar tile 12/36..
+2025-06-16 05:17:48,913 [INFO] Stitching radar tile 13/36..
+2025-06-16 05:17:48,913 [INFO] Stitching radar tile 14/36..
+2025-06-16 05:17:48,914 [INFO] Stitching radar tile 15/36..
+2025-06-16 05:17:48,914 [INFO] Stitching radar tile 16/36..
+2025-06-16 05:17:48,914 [INFO] Stitching radar tile 17/36..
+2025-06-16 05:17:48,914 [INFO] Stitching radar tile 18/36..
+2025-06-16 05:17:48,914 [INFO] Stitching radar tile 19/36..
+2025-06-16 05:17:48,914 [INFO] Stitching radar tile 20/36..
+2025-06-16 05:17:48,914 [INFO] Stitching radar tile 21/36..
+2025-06-16 05:17:48,914 [INFO] Stitching radar tile 22/36..
+2025-06-16 05:17:48,915 [INFO] Stitching radar tile 23/36..
+2025-06-16 05:17:48,915 [INFO] Stitching radar tile 24/36..
+2025-06-16 05:17:48,915 [INFO] Stitching radar tile 25/36..
+2025-06-16 05:17:48,915 [INFO] Stitching radar tile 26/36..
+2025-06-16 05:17:48,915 [INFO] Stitching radar tile 27/36..
+2025-06-16 05:17:48,915 [INFO] Stitching radar tile 28/36..
+2025-06-16 05:17:48,915 [INFO] Stitching radar tile 29/36..
+2025-06-16 05:17:48,915 [INFO] Stitching radar tile 30/36..
+2025-06-16 05:17:48,916 [INFO] Stitching radar tile 31/36..
+2025-06-16 05:17:48,916 [INFO] Stitching radar tile 32/36..
+2025-06-16 05:17:48,916 [INFO] Stitching radar tile 33/36..
+2025-06-16 05:17:48,916 [INFO] Stitching radar tile 34/36..
+2025-06-16 05:17:48,916 [INFO] Stitching radar tile 35/36..
+2025-06-16 05:17:48,916 [INFO] Compositing frame 1/1
+2025-06-16 05:22:53,390 [INFO] Creating radar frames..
+2025-06-16 05:22:53,637 [INFO] Cleared 1 radar frames.
+2025-06-16 05:22:59,819 [INFO] Stitching radar tile 0/36..
+2025-06-16 05:23:00,017 [INFO] Stitching radar tile 1/36..
+2025-06-16 05:23:00,017 [INFO] Stitching radar tile 2/36..
+2025-06-16 05:23:00,017 [INFO] Stitching radar tile 3/36..
+2025-06-16 05:23:00,017 [INFO] Stitching radar tile 4/36..
+2025-06-16 05:23:00,018 [INFO] Stitching radar tile 5/36..
+2025-06-16 05:23:00,018 [INFO] Stitching radar tile 6/36..
+2025-06-16 05:23:00,018 [INFO] Stitching radar tile 7/36..
+2025-06-16 05:23:00,018 [INFO] Stitching radar tile 8/36..
+2025-06-16 05:23:00,018 [INFO] Stitching radar tile 9/36..
+2025-06-16 05:23:00,018 [INFO] Stitching radar tile 10/36..
+2025-06-16 05:23:00,019 [INFO] Stitching radar tile 11/36..
+2025-06-16 05:23:00,019 [INFO] Stitching radar tile 12/36..
+2025-06-16 05:23:00,019 [INFO] Stitching radar tile 13/36..
+2025-06-16 05:23:00,019 [INFO] Stitching radar tile 14/36..
+2025-06-16 05:23:00,020 [INFO] Stitching radar tile 15/36..
+2025-06-16 05:23:00,020 [INFO] Stitching radar tile 16/36..
+2025-06-16 05:23:00,020 [INFO] Stitching radar tile 17/36..
+2025-06-16 05:23:00,020 [INFO] Stitching radar tile 18/36..
+2025-06-16 05:23:00,020 [INFO] Stitching radar tile 19/36..
+2025-06-16 05:23:00,020 [INFO] Stitching radar tile 20/36..
+2025-06-16 05:23:00,021 [INFO] Stitching radar tile 21/36..
+2025-06-16 05:23:00,021 [INFO] Stitching radar tile 22/36..
+2025-06-16 05:23:00,021 [INFO] Stitching radar tile 23/36..
+2025-06-16 05:23:00,021 [INFO] Stitching radar tile 24/36..
+2025-06-16 05:23:00,021 [INFO] Stitching radar tile 25/36..
+2025-06-16 05:23:00,022 [INFO] Stitching radar tile 26/36..
+2025-06-16 05:23:00,022 [INFO] Stitching radar tile 27/36..
+2025-06-16 05:23:00,022 [INFO] Stitching radar tile 28/36..
+2025-06-16 05:23:00,022 [INFO] Stitching radar tile 29/36..
+2025-06-16 05:23:00,022 [INFO] Stitching radar tile 30/36..
+2025-06-16 05:23:00,022 [INFO] Stitching radar tile 31/36..
+2025-06-16 05:23:00,023 [INFO] Stitching radar tile 32/36..
+2025-06-16 05:23:00,023 [INFO] Stitching radar tile 33/36..
+2025-06-16 05:23:00,023 [INFO] Stitching radar tile 34/36..
+2025-06-16 05:23:00,023 [INFO] Stitching radar tile 35/36..
+2025-06-16 05:23:00,023 [INFO] Compositing frame 1/1
+2025-06-16 05:28:04,491 [INFO] Creating radar frames..
+2025-06-16 05:28:04,750 [INFO] Cleared 1 radar frames.
+2025-06-16 05:28:12,350 [INFO] Stitching radar tile 0/36..
+2025-06-16 05:28:12,547 [INFO] Stitching radar tile 1/36..
+2025-06-16 05:28:12,547 [INFO] Stitching radar tile 2/36..
+2025-06-16 05:28:12,547 [INFO] Stitching radar tile 3/36..
+2025-06-16 05:28:12,547 [INFO] Stitching radar tile 4/36..
+2025-06-16 05:28:12,547 [INFO] Stitching radar tile 5/36..
+2025-06-16 05:28:12,547 [INFO] Stitching radar tile 6/36..
+2025-06-16 05:28:12,548 [INFO] Stitching radar tile 7/36..
+2025-06-16 05:28:12,548 [INFO] Stitching radar tile 8/36..
+2025-06-16 05:28:12,548 [INFO] Stitching radar tile 9/36..
+2025-06-16 05:28:12,548 [INFO] Stitching radar tile 10/36..
+2025-06-16 05:28:12,548 [INFO] Stitching radar tile 11/36..
+2025-06-16 05:28:12,548 [INFO] Stitching radar tile 12/36..
+2025-06-16 05:28:12,548 [INFO] Stitching radar tile 13/36..
+2025-06-16 05:28:12,548 [INFO] Stitching radar tile 14/36..
+2025-06-16 05:28:12,549 [INFO] Stitching radar tile 15/36..
+2025-06-16 05:28:12,549 [INFO] Stitching radar tile 16/36..
+2025-06-16 05:28:12,549 [INFO] Stitching radar tile 17/36..
+2025-06-16 05:28:12,550 [INFO] Stitching radar tile 18/36..
+2025-06-16 05:28:12,550 [INFO] Stitching radar tile 19/36..
+2025-06-16 05:28:12,550 [INFO] Stitching radar tile 20/36..
+2025-06-16 05:28:12,550 [INFO] Stitching radar tile 21/36..
+2025-06-16 05:28:12,550 [INFO] Stitching radar tile 22/36..
+2025-06-16 05:28:12,550 [INFO] Stitching radar tile 23/36..
+2025-06-16 05:28:12,550 [INFO] Stitching radar tile 24/36..
+2025-06-16 05:28:12,550 [INFO] Stitching radar tile 25/36..
+2025-06-16 05:28:12,550 [INFO] Stitching radar tile 26/36..
+2025-06-16 05:28:12,551 [INFO] Stitching radar tile 27/36..
+2025-06-16 05:28:12,551 [INFO] Stitching radar tile 28/36..
+2025-06-16 05:28:12,551 [INFO] Stitching radar tile 29/36..
+2025-06-16 05:28:12,551 [INFO] Stitching radar tile 30/36..
+2025-06-16 05:28:12,551 [INFO] Stitching radar tile 31/36..
+2025-06-16 05:28:12,551 [INFO] Stitching radar tile 32/36..
+2025-06-16 05:28:12,551 [INFO] Stitching radar tile 33/36..
+2025-06-16 05:28:12,552 [INFO] Stitching radar tile 34/36..
+2025-06-16 05:28:12,552 [INFO] Stitching radar tile 35/36..
+2025-06-16 05:28:12,552 [INFO] Compositing frame 1/1
+2025-06-16 05:33:17,049 [INFO] Creating radar frames..
+2025-06-16 05:33:17,327 [INFO] Cleared 1 radar frames.
+2025-06-16 05:33:23,957 [INFO] Stitching radar tile 0/36..
+2025-06-16 05:33:24,155 [INFO] Stitching radar tile 1/36..
+2025-06-16 05:33:24,155 [INFO] Stitching radar tile 2/36..
+2025-06-16 05:33:24,155 [INFO] Stitching radar tile 3/36..
+2025-06-16 05:33:24,155 [INFO] Stitching radar tile 4/36..
+2025-06-16 05:33:24,155 [INFO] Stitching radar tile 5/36..
+2025-06-16 05:33:24,155 [INFO] Stitching radar tile 6/36..
+2025-06-16 05:33:24,156 [INFO] Stitching radar tile 7/36..
+2025-06-16 05:33:24,156 [INFO] Stitching radar tile 8/36..
+2025-06-16 05:33:24,156 [INFO] Stitching radar tile 9/36..
+2025-06-16 05:33:24,156 [INFO] Stitching radar tile 10/36..
+2025-06-16 05:33:24,156 [INFO] Stitching radar tile 11/36..
+2025-06-16 05:33:24,156 [INFO] Stitching radar tile 12/36..
+2025-06-16 05:33:24,156 [INFO] Stitching radar tile 13/36..
+2025-06-16 05:33:24,157 [INFO] Stitching radar tile 14/36..
+2025-06-16 05:33:24,157 [INFO] Stitching radar tile 15/36..
+2025-06-16 05:33:24,157 [INFO] Stitching radar tile 16/36..
+2025-06-16 05:33:24,157 [INFO] Stitching radar tile 17/36..
+2025-06-16 05:33:24,157 [INFO] Stitching radar tile 18/36..
+2025-06-16 05:33:24,157 [INFO] Stitching radar tile 19/36..
+2025-06-16 05:33:24,158 [INFO] Stitching radar tile 20/36..
+2025-06-16 05:33:24,158 [INFO] Stitching radar tile 21/36..
+2025-06-16 05:33:24,158 [INFO] Stitching radar tile 22/36..
+2025-06-16 05:33:24,158 [INFO] Stitching radar tile 23/36..
+2025-06-16 05:33:24,158 [INFO] Stitching radar tile 24/36..
+2025-06-16 05:33:24,158 [INFO] Stitching radar tile 25/36..
+2025-06-16 05:33:24,158 [INFO] Stitching radar tile 26/36..
+2025-06-16 05:33:24,158 [INFO] Stitching radar tile 27/36..
+2025-06-16 05:33:24,159 [INFO] Stitching radar tile 28/36..
+2025-06-16 05:33:24,159 [INFO] Stitching radar tile 29/36..
+2025-06-16 05:33:24,159 [INFO] Stitching radar tile 30/36..
+2025-06-16 05:33:24,159 [INFO] Stitching radar tile 31/36..
+2025-06-16 05:33:24,159 [INFO] Stitching radar tile 32/36..
+2025-06-16 05:33:24,159 [INFO] Stitching radar tile 33/36..
+2025-06-16 05:33:24,159 [INFO] Stitching radar tile 34/36..
+2025-06-16 05:33:24,159 [INFO] Stitching radar tile 35/36..
+2025-06-16 05:33:24,160 [INFO] Compositing frame 1/1
+2025-06-16 05:38:28,628 [INFO] Creating radar frames..
+2025-06-16 05:38:28,870 [INFO] Cleared 1 radar frames.
+2025-06-16 05:38:34,798 [INFO] Stitching radar tile 0/36..
+2025-06-16 05:38:35,000 [INFO] Stitching radar tile 1/36..
+2025-06-16 05:38:35,001 [INFO] Stitching radar tile 2/36..
+2025-06-16 05:38:35,001 [INFO] Stitching radar tile 3/36..
+2025-06-16 05:38:35,001 [INFO] Stitching radar tile 4/36..
+2025-06-16 05:38:35,001 [INFO] Stitching radar tile 5/36..
+2025-06-16 05:38:35,001 [INFO] Stitching radar tile 6/36..
+2025-06-16 05:38:35,001 [INFO] Stitching radar tile 7/36..
+2025-06-16 05:38:35,001 [INFO] Stitching radar tile 8/36..
+2025-06-16 05:38:35,001 [INFO] Stitching radar tile 9/36..
+2025-06-16 05:38:35,002 [INFO] Stitching radar tile 10/36..
+2025-06-16 05:38:35,002 [INFO] Stitching radar tile 11/36..
+2025-06-16 05:38:35,002 [INFO] Stitching radar tile 12/36..
+2025-06-16 05:38:35,002 [INFO] Stitching radar tile 13/36..
+2025-06-16 05:38:35,002 [INFO] Stitching radar tile 14/36..
+2025-06-16 05:38:35,002 [INFO] Stitching radar tile 15/36..
+2025-06-16 05:38:35,002 [INFO] Stitching radar tile 16/36..
+2025-06-16 05:38:35,002 [INFO] Stitching radar tile 17/36..
+2025-06-16 05:38:35,003 [INFO] Stitching radar tile 18/36..
+2025-06-16 05:38:35,003 [INFO] Stitching radar tile 19/36..
+2025-06-16 05:38:35,003 [INFO] Stitching radar tile 20/36..
+2025-06-16 05:38:35,003 [INFO] Stitching radar tile 21/36..
+2025-06-16 05:38:35,003 [INFO] Stitching radar tile 22/36..
+2025-06-16 05:38:35,003 [INFO] Stitching radar tile 23/36..
+2025-06-16 05:38:35,004 [INFO] Stitching radar tile 24/36..
+2025-06-16 05:38:35,004 [INFO] Stitching radar tile 25/36..
+2025-06-16 05:38:35,004 [INFO] Stitching radar tile 26/36..
+2025-06-16 05:38:35,004 [INFO] Stitching radar tile 27/36..
+2025-06-16 05:38:35,004 [INFO] Stitching radar tile 28/36..
+2025-06-16 05:38:35,004 [INFO] Stitching radar tile 29/36..
+2025-06-16 05:38:35,004 [INFO] Stitching radar tile 30/36..
+2025-06-16 05:38:35,004 [INFO] Stitching radar tile 31/36..
+2025-06-16 05:38:35,005 [INFO] Stitching radar tile 32/36..
+2025-06-16 05:38:35,005 [INFO] Stitching radar tile 33/36..
+2025-06-16 05:38:35,005 [INFO] Stitching radar tile 34/36..
+2025-06-16 05:38:35,005 [INFO] Stitching radar tile 35/36..
+2025-06-16 05:38:35,005 [INFO] Compositing frame 1/1
+2025-06-16 05:43:39,414 [INFO] Creating radar frames..
+2025-06-16 05:43:39,674 [INFO] Cleared 1 radar frames.
+2025-06-16 05:43:46,570 [INFO] Stitching radar tile 0/36..
+2025-06-16 05:43:46,770 [INFO] Stitching radar tile 1/36..
+2025-06-16 05:43:46,770 [INFO] Stitching radar tile 2/36..
+2025-06-16 05:43:46,770 [INFO] Stitching radar tile 3/36..
+2025-06-16 05:43:46,771 [INFO] Stitching radar tile 4/36..
+2025-06-16 05:43:46,771 [INFO] Stitching radar tile 5/36..
+2025-06-16 05:43:46,771 [INFO] Stitching radar tile 6/36..
+2025-06-16 05:43:46,772 [INFO] Stitching radar tile 7/36..
+2025-06-16 05:43:46,772 [INFO] Stitching radar tile 8/36..
+2025-06-16 05:43:46,772 [INFO] Stitching radar tile 9/36..
+2025-06-16 05:43:46,772 [INFO] Stitching radar tile 10/36..
+2025-06-16 05:43:46,772 [INFO] Stitching radar tile 11/36..
+2025-06-16 05:43:46,772 [INFO] Stitching radar tile 12/36..
+2025-06-16 05:43:46,773 [INFO] Stitching radar tile 13/36..
+2025-06-16 05:43:46,773 [INFO] Stitching radar tile 14/36..
+2025-06-16 05:43:46,773 [INFO] Stitching radar tile 15/36..
+2025-06-16 05:43:46,773 [INFO] Stitching radar tile 16/36..
+2025-06-16 05:43:46,773 [INFO] Stitching radar tile 17/36..
+2025-06-16 05:43:46,774 [INFO] Stitching radar tile 18/36..
+2025-06-16 05:43:46,774 [INFO] Stitching radar tile 19/36..
+2025-06-16 05:43:46,774 [INFO] Stitching radar tile 20/36..
+2025-06-16 05:43:46,774 [INFO] Stitching radar tile 21/36..
+2025-06-16 05:43:46,774 [INFO] Stitching radar tile 22/36..
+2025-06-16 05:43:46,774 [INFO] Stitching radar tile 23/36..
+2025-06-16 05:43:46,775 [INFO] Stitching radar tile 24/36..
+2025-06-16 05:43:46,775 [INFO] Stitching radar tile 25/36..
+2025-06-16 05:43:46,775 [INFO] Stitching radar tile 26/36..
+2025-06-16 05:43:46,775 [INFO] Stitching radar tile 27/36..
+2025-06-16 05:43:46,775 [INFO] Stitching radar tile 28/36..
+2025-06-16 05:43:46,776 [INFO] Stitching radar tile 29/36..
+2025-06-16 05:43:46,776 [INFO] Stitching radar tile 30/36..
+2025-06-16 05:43:46,776 [INFO] Stitching radar tile 31/36..
+2025-06-16 05:43:46,776 [INFO] Stitching radar tile 32/36..
+2025-06-16 05:43:46,776 [INFO] Stitching radar tile 33/36..
+2025-06-16 05:43:46,777 [INFO] Stitching radar tile 34/36..
+2025-06-16 05:43:46,777 [INFO] Stitching radar tile 35/36..
+2025-06-16 05:43:46,777 [INFO] Compositing frame 1/1
+2025-06-16 05:48:51,265 [INFO] Creating radar frames..
+2025-06-16 05:48:51,530 [INFO] Cleared 1 radar frames.
+2025-06-16 05:48:57,418 [INFO] Stitching radar tile 0/36..
+2025-06-16 05:48:57,619 [INFO] Stitching radar tile 1/36..
+2025-06-16 05:48:57,619 [INFO] Stitching radar tile 2/36..
+2025-06-16 05:48:57,619 [INFO] Stitching radar tile 3/36..
+2025-06-16 05:48:57,619 [INFO] Stitching radar tile 4/36..
+2025-06-16 05:48:57,619 [INFO] Stitching radar tile 5/36..
+2025-06-16 05:48:57,619 [INFO] Stitching radar tile 6/36..
+2025-06-16 05:48:57,619 [INFO] Stitching radar tile 7/36..
+2025-06-16 05:48:57,620 [INFO] Stitching radar tile 8/36..
+2025-06-16 05:48:57,620 [INFO] Stitching radar tile 9/36..
+2025-06-16 05:48:57,620 [INFO] Stitching radar tile 10/36..
+2025-06-16 05:48:57,620 [INFO] Stitching radar tile 11/36..
+2025-06-16 05:48:57,620 [INFO] Stitching radar tile 12/36..
+2025-06-16 05:48:57,620 [INFO] Stitching radar tile 13/36..
+2025-06-16 05:48:57,621 [INFO] Stitching radar tile 14/36..
+2025-06-16 05:48:57,621 [INFO] Stitching radar tile 15/36..
+2025-06-16 05:48:57,621 [INFO] Stitching radar tile 16/36..
+2025-06-16 05:48:57,621 [INFO] Stitching radar tile 17/36..
+2025-06-16 05:48:57,621 [INFO] Stitching radar tile 18/36..
+2025-06-16 05:48:57,621 [INFO] Stitching radar tile 19/36..
+2025-06-16 05:48:57,621 [INFO] Stitching radar tile 20/36..
+2025-06-16 05:48:57,621 [INFO] Stitching radar tile 21/36..
+2025-06-16 05:48:57,621 [INFO] Stitching radar tile 22/36..
+2025-06-16 05:48:57,622 [INFO] Stitching radar tile 23/36..
+2025-06-16 05:48:57,622 [INFO] Stitching radar tile 24/36..
+2025-06-16 05:48:57,622 [INFO] Stitching radar tile 25/36..
+2025-06-16 05:48:57,622 [INFO] Stitching radar tile 26/36..
+2025-06-16 05:48:57,622 [INFO] Stitching radar tile 27/36..
+2025-06-16 05:48:57,622 [INFO] Stitching radar tile 28/36..
+2025-06-16 05:48:57,622 [INFO] Stitching radar tile 29/36..
+2025-06-16 05:48:57,622 [INFO] Stitching radar tile 30/36..
+2025-06-16 05:48:57,622 [INFO] Stitching radar tile 31/36..
+2025-06-16 05:48:57,623 [INFO] Stitching radar tile 32/36..
+2025-06-16 05:48:57,623 [INFO] Stitching radar tile 33/36..
+2025-06-16 05:48:57,623 [INFO] Stitching radar tile 34/36..
+2025-06-16 05:48:57,623 [INFO] Stitching radar tile 35/36..
+2025-06-16 05:48:57,623 [INFO] Compositing frame 1/1
+2025-06-16 05:54:02,121 [INFO] Creating radar frames..
+2025-06-16 05:54:02,391 [INFO] Cleared 1 radar frames.
+2025-06-16 05:54:09,206 [INFO] Stitching radar tile 0/36..
+2025-06-16 05:54:09,405 [INFO] Stitching radar tile 1/36..
+2025-06-16 05:54:09,406 [INFO] Stitching radar tile 2/36..
+2025-06-16 05:54:09,406 [INFO] Stitching radar tile 3/36..
+2025-06-16 05:54:09,406 [INFO] Stitching radar tile 4/36..
+2025-06-16 05:54:09,406 [INFO] Stitching radar tile 5/36..
+2025-06-16 05:54:09,406 [INFO] Stitching radar tile 6/36..
+2025-06-16 05:54:09,406 [INFO] Stitching radar tile 7/36..
+2025-06-16 05:54:09,407 [INFO] Stitching radar tile 8/36..
+2025-06-16 05:54:09,407 [INFO] Stitching radar tile 9/36..
+2025-06-16 05:54:09,407 [INFO] Stitching radar tile 10/36..
+2025-06-16 05:54:09,407 [INFO] Stitching radar tile 11/36..
+2025-06-16 05:54:09,407 [INFO] Stitching radar tile 12/36..
+2025-06-16 05:54:09,407 [INFO] Stitching radar tile 13/36..
+2025-06-16 05:54:09,407 [INFO] Stitching radar tile 14/36..
+2025-06-16 05:54:09,407 [INFO] Stitching radar tile 15/36..
+2025-06-16 05:54:09,408 [INFO] Stitching radar tile 16/36..
+2025-06-16 05:54:09,408 [INFO] Stitching radar tile 17/36..
+2025-06-16 05:54:09,408 [INFO] Stitching radar tile 18/36..
+2025-06-16 05:54:09,408 [INFO] Stitching radar tile 19/36..
+2025-06-16 05:54:09,408 [INFO] Stitching radar tile 20/36..
+2025-06-16 05:54:09,408 [INFO] Stitching radar tile 21/36..
+2025-06-16 05:54:09,408 [INFO] Stitching radar tile 22/36..
+2025-06-16 05:54:09,408 [INFO] Stitching radar tile 23/36..
+2025-06-16 05:54:09,408 [INFO] Stitching radar tile 24/36..
+2025-06-16 05:54:09,409 [INFO] Stitching radar tile 25/36..
+2025-06-16 05:54:09,409 [INFO] Stitching radar tile 26/36..
+2025-06-16 05:54:09,409 [INFO] Stitching radar tile 27/36..
+2025-06-16 05:54:09,409 [INFO] Stitching radar tile 28/36..
+2025-06-16 05:54:09,409 [INFO] Stitching radar tile 29/36..
+2025-06-16 05:54:09,409 [INFO] Stitching radar tile 30/36..
+2025-06-16 05:54:09,409 [INFO] Stitching radar tile 31/36..
+2025-06-16 05:54:09,409 [INFO] Stitching radar tile 32/36..
+2025-06-16 05:54:09,409 [INFO] Stitching radar tile 33/36..
+2025-06-16 05:54:09,410 [INFO] Stitching radar tile 34/36..
+2025-06-16 05:54:09,410 [INFO] Stitching radar tile 35/36..
+2025-06-16 05:54:09,410 [INFO] Compositing frame 1/1
+2025-06-16 05:59:13,833 [INFO] Creating radar frames..
+2025-06-16 05:59:14,099 [INFO] Cleared 1 radar frames.
+2025-06-16 05:59:19,855 [INFO] Stitching radar tile 0/36..
+2025-06-16 05:59:20,057 [INFO] Stitching radar tile 1/36..
+2025-06-16 05:59:20,057 [INFO] Stitching radar tile 2/36..
+2025-06-16 05:59:20,057 [INFO] Stitching radar tile 3/36..
+2025-06-16 05:59:20,057 [INFO] Stitching radar tile 4/36..
+2025-06-16 05:59:20,058 [INFO] Stitching radar tile 5/36..
+2025-06-16 05:59:20,058 [INFO] Stitching radar tile 6/36..
+2025-06-16 05:59:20,058 [INFO] Stitching radar tile 7/36..
+2025-06-16 05:59:20,058 [INFO] Stitching radar tile 8/36..
+2025-06-16 05:59:20,058 [INFO] Stitching radar tile 9/36..
+2025-06-16 05:59:20,058 [INFO] Stitching radar tile 10/36..
+2025-06-16 05:59:20,058 [INFO] Stitching radar tile 11/36..
+2025-06-16 05:59:20,058 [INFO] Stitching radar tile 12/36..
+2025-06-16 05:59:20,059 [INFO] Stitching radar tile 13/36..
+2025-06-16 05:59:20,059 [INFO] Stitching radar tile 14/36..
+2025-06-16 05:59:20,059 [INFO] Stitching radar tile 15/36..
+2025-06-16 05:59:20,059 [INFO] Stitching radar tile 16/36..
+2025-06-16 05:59:20,059 [INFO] Stitching radar tile 17/36..
+2025-06-16 05:59:20,059 [INFO] Stitching radar tile 18/36..
+2025-06-16 05:59:20,060 [INFO] Stitching radar tile 19/36..
+2025-06-16 05:59:20,060 [INFO] Stitching radar tile 20/36..
+2025-06-16 05:59:20,060 [INFO] Stitching radar tile 21/36..
+2025-06-16 05:59:20,060 [INFO] Stitching radar tile 22/36..
+2025-06-16 05:59:20,060 [INFO] Stitching radar tile 23/36..
+2025-06-16 05:59:20,060 [INFO] Stitching radar tile 24/36..
+2025-06-16 05:59:20,060 [INFO] Stitching radar tile 25/36..
+2025-06-16 05:59:20,060 [INFO] Stitching radar tile 26/36..
+2025-06-16 05:59:20,061 [INFO] Stitching radar tile 27/36..
+2025-06-16 05:59:20,061 [INFO] Stitching radar tile 28/36..
+2025-06-16 05:59:20,061 [INFO] Stitching radar tile 29/36..
+2025-06-16 05:59:20,061 [INFO] Stitching radar tile 30/36..
+2025-06-16 05:59:20,061 [INFO] Stitching radar tile 31/36..
+2025-06-16 05:59:20,061 [INFO] Stitching radar tile 32/36..
+2025-06-16 05:59:20,061 [INFO] Stitching radar tile 33/36..
+2025-06-16 05:59:20,061 [INFO] Stitching radar tile 34/36..
+2025-06-16 05:59:20,062 [INFO] Stitching radar tile 35/36..
+2025-06-16 05:59:20,062 [INFO] Compositing frame 1/1
+2025-06-16 06:04:24,551 [INFO] Creating radar frames..
+2025-06-16 06:04:24,810 [INFO] Cleared 1 radar frames.
+2025-06-16 06:04:30,208 [INFO] Stitching radar tile 0/36..
+2025-06-16 06:04:30,406 [INFO] Stitching radar tile 1/36..
+2025-06-16 06:04:30,407 [INFO] Stitching radar tile 2/36..
+2025-06-16 06:04:30,407 [INFO] Stitching radar tile 3/36..
+2025-06-16 06:04:30,407 [INFO] Stitching radar tile 4/36..
+2025-06-16 06:04:30,407 [INFO] Stitching radar tile 5/36..
+2025-06-16 06:04:30,407 [INFO] Stitching radar tile 6/36..
+2025-06-16 06:04:30,407 [INFO] Stitching radar tile 7/36..
+2025-06-16 06:04:30,407 [INFO] Stitching radar tile 8/36..
+2025-06-16 06:04:30,407 [INFO] Stitching radar tile 9/36..
+2025-06-16 06:04:30,407 [INFO] Stitching radar tile 10/36..
+2025-06-16 06:04:30,408 [INFO] Stitching radar tile 11/36..
+2025-06-16 06:04:30,408 [INFO] Stitching radar tile 12/36..
+2025-06-16 06:04:30,408 [INFO] Stitching radar tile 13/36..
+2025-06-16 06:04:30,408 [INFO] Stitching radar tile 14/36..
+2025-06-16 06:04:30,408 [INFO] Stitching radar tile 15/36..
+2025-06-16 06:04:30,408 [INFO] Stitching radar tile 16/36..
+2025-06-16 06:04:30,408 [INFO] Stitching radar tile 17/36..
+2025-06-16 06:04:30,408 [INFO] Stitching radar tile 18/36..
+2025-06-16 06:04:30,409 [INFO] Stitching radar tile 19/36..
+2025-06-16 06:04:30,409 [INFO] Stitching radar tile 20/36..
+2025-06-16 06:04:30,409 [INFO] Stitching radar tile 21/36..
+2025-06-16 06:04:30,409 [INFO] Stitching radar tile 22/36..
+2025-06-16 06:04:30,409 [INFO] Stitching radar tile 23/36..
+2025-06-16 06:04:30,409 [INFO] Stitching radar tile 24/36..
+2025-06-16 06:04:30,409 [INFO] Stitching radar tile 25/36..
+2025-06-16 06:04:30,410 [INFO] Stitching radar tile 26/36..
+2025-06-16 06:04:30,410 [INFO] Stitching radar tile 27/36..
+2025-06-16 06:04:30,410 [INFO] Stitching radar tile 28/36..
+2025-06-16 06:04:30,410 [INFO] Stitching radar tile 29/36..
+2025-06-16 06:04:30,410 [INFO] Stitching radar tile 30/36..
+2025-06-16 06:04:30,410 [INFO] Stitching radar tile 31/36..
+2025-06-16 06:04:30,410 [INFO] Stitching radar tile 32/36..
+2025-06-16 06:04:30,410 [INFO] Stitching radar tile 33/36..
+2025-06-16 06:04:30,410 [INFO] Stitching radar tile 34/36..
+2025-06-16 06:04:30,411 [INFO] Stitching radar tile 35/36..
+2025-06-16 06:04:30,411 [INFO] Compositing frame 1/1
+2025-06-16 06:09:34,879 [INFO] Creating radar frames..
+2025-06-16 06:09:35,128 [INFO] Cleared 1 radar frames.
+2025-06-16 06:09:41,283 [INFO] Stitching radar tile 0/36..
+2025-06-16 06:09:41,484 [INFO] Stitching radar tile 1/36..
+2025-06-16 06:09:41,484 [INFO] Stitching radar tile 2/36..
+2025-06-16 06:09:41,484 [INFO] Stitching radar tile 3/36..
+2025-06-16 06:09:41,484 [INFO] Stitching radar tile 4/36..
+2025-06-16 06:09:41,484 [INFO] Stitching radar tile 5/36..
+2025-06-16 06:09:41,484 [INFO] Stitching radar tile 6/36..
+2025-06-16 06:09:41,485 [INFO] Stitching radar tile 7/36..
+2025-06-16 06:09:41,485 [INFO] Stitching radar tile 8/36..
+2025-06-16 06:09:41,485 [INFO] Stitching radar tile 9/36..
+2025-06-16 06:09:41,485 [INFO] Stitching radar tile 10/36..
+2025-06-16 06:09:41,485 [INFO] Stitching radar tile 11/36..
+2025-06-16 06:09:41,485 [INFO] Stitching radar tile 12/36..
+2025-06-16 06:09:41,485 [INFO] Stitching radar tile 13/36..
+2025-06-16 06:09:41,485 [INFO] Stitching radar tile 14/36..
+2025-06-16 06:09:41,485 [INFO] Stitching radar tile 15/36..
+2025-06-16 06:09:41,486 [INFO] Stitching radar tile 16/36..
+2025-06-16 06:09:41,486 [INFO] Stitching radar tile 17/36..
+2025-06-16 06:09:41,486 [INFO] Stitching radar tile 18/36..
+2025-06-16 06:09:41,486 [INFO] Stitching radar tile 19/36..
+2025-06-16 06:09:41,486 [INFO] Stitching radar tile 20/36..
+2025-06-16 06:09:41,487 [INFO] Stitching radar tile 21/36..
+2025-06-16 06:09:41,487 [INFO] Stitching radar tile 22/36..
+2025-06-16 06:09:41,487 [INFO] Stitching radar tile 23/36..
+2025-06-16 06:09:41,487 [INFO] Stitching radar tile 24/36..
+2025-06-16 06:09:41,487 [INFO] Stitching radar tile 25/36..
+2025-06-16 06:09:41,487 [INFO] Stitching radar tile 26/36..
+2025-06-16 06:09:41,487 [INFO] Stitching radar tile 27/36..
+2025-06-16 06:09:41,487 [INFO] Stitching radar tile 28/36..
+2025-06-16 06:09:41,488 [INFO] Stitching radar tile 29/36..
+2025-06-16 06:09:41,488 [INFO] Stitching radar tile 30/36..
+2025-06-16 06:09:41,488 [INFO] Stitching radar tile 31/36..
+2025-06-16 06:09:41,488 [INFO] Stitching radar tile 32/36..
+2025-06-16 06:09:41,488 [INFO] Stitching radar tile 33/36..
+2025-06-16 06:09:41,488 [INFO] Stitching radar tile 34/36..
+2025-06-16 06:09:41,488 [INFO] Stitching radar tile 35/36..
+2025-06-16 06:09:41,489 [INFO] Compositing frame 1/1
+2025-06-16 06:14:45,948 [INFO] Creating radar frames..
+2025-06-16 06:14:46,202 [INFO] Cleared 1 radar frames.
+2025-06-16 06:14:53,133 [INFO] Stitching radar tile 0/36..
+2025-06-16 06:14:53,334 [INFO] Stitching radar tile 1/36..
+2025-06-16 06:14:53,334 [INFO] Stitching radar tile 2/36..
+2025-06-16 06:14:53,334 [INFO] Stitching radar tile 3/36..
+2025-06-16 06:14:53,334 [INFO] Stitching radar tile 4/36..
+2025-06-16 06:14:53,334 [INFO] Stitching radar tile 5/36..
+2025-06-16 06:14:53,334 [INFO] Stitching radar tile 6/36..
+2025-06-16 06:14:53,335 [INFO] Stitching radar tile 7/36..
+2025-06-16 06:14:53,335 [INFO] Stitching radar tile 8/36..
+2025-06-16 06:14:53,335 [INFO] Stitching radar tile 9/36..
+2025-06-16 06:14:53,335 [INFO] Stitching radar tile 10/36..
+2025-06-16 06:14:53,335 [INFO] Stitching radar tile 11/36..
+2025-06-16 06:14:53,335 [INFO] Stitching radar tile 12/36..
+2025-06-16 06:14:53,335 [INFO] Stitching radar tile 13/36..
+2025-06-16 06:14:53,335 [INFO] Stitching radar tile 14/36..
+2025-06-16 06:14:53,336 [INFO] Stitching radar tile 15/36..
+2025-06-16 06:14:53,336 [INFO] Stitching radar tile 16/36..
+2025-06-16 06:14:53,336 [INFO] Stitching radar tile 17/36..
+2025-06-16 06:14:53,336 [INFO] Stitching radar tile 18/36..
+2025-06-16 06:14:53,336 [INFO] Stitching radar tile 19/36..
+2025-06-16 06:14:53,336 [INFO] Stitching radar tile 20/36..
+2025-06-16 06:14:53,337 [INFO] Stitching radar tile 21/36..
+2025-06-16 06:14:53,337 [INFO] Stitching radar tile 22/36..
+2025-06-16 06:14:53,337 [INFO] Stitching radar tile 23/36..
+2025-06-16 06:14:53,337 [INFO] Stitching radar tile 24/36..
+2025-06-16 06:14:53,337 [INFO] Stitching radar tile 25/36..
+2025-06-16 06:14:53,337 [INFO] Stitching radar tile 26/36..
+2025-06-16 06:14:53,337 [INFO] Stitching radar tile 27/36..
+2025-06-16 06:14:53,338 [INFO] Stitching radar tile 28/36..
+2025-06-16 06:14:53,338 [INFO] Stitching radar tile 29/36..
+2025-06-16 06:14:53,338 [INFO] Stitching radar tile 30/36..
+2025-06-16 06:14:53,338 [INFO] Stitching radar tile 31/36..
+2025-06-16 06:14:53,338 [INFO] Stitching radar tile 32/36..
+2025-06-16 06:14:53,338 [INFO] Stitching radar tile 33/36..
+2025-06-16 06:14:53,338 [INFO] Stitching radar tile 34/36..
+2025-06-16 06:14:53,338 [INFO] Stitching radar tile 35/36..
+2025-06-16 06:14:53,339 [INFO] Compositing frame 1/1
+2025-06-16 06:19:57,747 [INFO] Creating radar frames..
+2025-06-16 06:19:57,987 [INFO] Cleared 1 radar frames.
+2025-06-16 06:20:04,095 [INFO] Stitching radar tile 0/36..
+2025-06-16 06:20:04,295 [INFO] Stitching radar tile 1/36..
+2025-06-16 06:20:04,295 [INFO] Stitching radar tile 2/36..
+2025-06-16 06:20:04,295 [INFO] Stitching radar tile 3/36..
+2025-06-16 06:20:04,295 [INFO] Stitching radar tile 4/36..
+2025-06-16 06:20:04,295 [INFO] Stitching radar tile 5/36..
+2025-06-16 06:20:04,296 [INFO] Stitching radar tile 6/36..
+2025-06-16 06:20:04,296 [INFO] Stitching radar tile 7/36..
+2025-06-16 06:20:04,296 [INFO] Stitching radar tile 8/36..
+2025-06-16 06:20:04,296 [INFO] Stitching radar tile 9/36..
+2025-06-16 06:20:04,296 [INFO] Stitching radar tile 10/36..
+2025-06-16 06:20:04,296 [INFO] Stitching radar tile 11/36..
+2025-06-16 06:20:04,296 [INFO] Stitching radar tile 12/36..
+2025-06-16 06:20:04,296 [INFO] Stitching radar tile 13/36..
+2025-06-16 06:20:04,297 [INFO] Stitching radar tile 14/36..
+2025-06-16 06:20:04,297 [INFO] Stitching radar tile 15/36..
+2025-06-16 06:20:04,297 [INFO] Stitching radar tile 16/36..
+2025-06-16 06:20:04,297 [INFO] Stitching radar tile 17/36..
+2025-06-16 06:20:04,297 [INFO] Stitching radar tile 18/36..
+2025-06-16 06:20:04,297 [INFO] Stitching radar tile 19/36..
+2025-06-16 06:20:04,298 [INFO] Stitching radar tile 20/36..
+2025-06-16 06:20:04,298 [INFO] Stitching radar tile 21/36..
+2025-06-16 06:20:04,298 [INFO] Stitching radar tile 22/36..
+2025-06-16 06:20:04,298 [INFO] Stitching radar tile 23/36..
+2025-06-16 06:20:04,298 [INFO] Stitching radar tile 24/36..
+2025-06-16 06:20:04,298 [INFO] Stitching radar tile 25/36..
+2025-06-16 06:20:04,298 [INFO] Stitching radar tile 26/36..
+2025-06-16 06:20:04,298 [INFO] Stitching radar tile 27/36..
+2025-06-16 06:20:04,299 [INFO] Stitching radar tile 28/36..
+2025-06-16 06:20:04,299 [INFO] Stitching radar tile 29/36..
+2025-06-16 06:20:04,299 [INFO] Stitching radar tile 30/36..
+2025-06-16 06:20:04,299 [INFO] Stitching radar tile 31/36..
+2025-06-16 06:20:04,299 [INFO] Stitching radar tile 32/36..
+2025-06-16 06:20:04,299 [INFO] Stitching radar tile 33/36..
+2025-06-16 06:20:04,299 [INFO] Stitching radar tile 34/36..
+2025-06-16 06:20:04,299 [INFO] Stitching radar tile 35/36..
+2025-06-16 06:20:04,300 [INFO] Compositing frame 1/1
+2025-06-16 06:25:08,821 [INFO] Creating radar frames..
+2025-06-16 06:25:09,317 [INFO] Cleared 1 radar frames.
+2025-06-16 06:25:15,277 [INFO] Stitching radar tile 0/36..
+2025-06-16 06:25:15,477 [INFO] Stitching radar tile 1/36..
+2025-06-16 06:25:15,477 [INFO] Stitching radar tile 2/36..
+2025-06-16 06:25:15,477 [INFO] Stitching radar tile 3/36..
+2025-06-16 06:25:15,477 [INFO] Stitching radar tile 4/36..
+2025-06-16 06:25:15,477 [INFO] Stitching radar tile 5/36..
+2025-06-16 06:25:15,478 [INFO] Stitching radar tile 6/36..
+2025-06-16 06:25:15,478 [INFO] Stitching radar tile 7/36..
+2025-06-16 06:25:15,478 [INFO] Stitching radar tile 8/36..
+2025-06-16 06:25:15,478 [INFO] Stitching radar tile 9/36..
+2025-06-16 06:25:15,478 [INFO] Stitching radar tile 10/36..
+2025-06-16 06:25:15,478 [INFO] Stitching radar tile 11/36..
+2025-06-16 06:25:15,478 [INFO] Stitching radar tile 12/36..
+2025-06-16 06:25:15,478 [INFO] Stitching radar tile 13/36..
+2025-06-16 06:25:15,479 [INFO] Stitching radar tile 14/36..
+2025-06-16 06:25:15,479 [INFO] Stitching radar tile 15/36..
+2025-06-16 06:25:15,479 [INFO] Stitching radar tile 16/36..
+2025-06-16 06:25:15,479 [INFO] Stitching radar tile 17/36..
+2025-06-16 06:25:15,479 [INFO] Stitching radar tile 18/36..
+2025-06-16 06:25:15,479 [INFO] Stitching radar tile 19/36..
+2025-06-16 06:25:15,479 [INFO] Stitching radar tile 20/36..
+2025-06-16 06:25:15,480 [INFO] Stitching radar tile 21/36..
+2025-06-16 06:25:15,480 [INFO] Stitching radar tile 22/36..
+2025-06-16 06:25:15,480 [INFO] Stitching radar tile 23/36..
+2025-06-16 06:25:15,480 [INFO] Stitching radar tile 24/36..
+2025-06-16 06:25:15,480 [INFO] Stitching radar tile 25/36..
+2025-06-16 06:25:15,480 [INFO] Stitching radar tile 26/36..
+2025-06-16 06:25:15,480 [INFO] Stitching radar tile 27/36..
+2025-06-16 06:25:15,480 [INFO] Stitching radar tile 28/36..
+2025-06-16 06:25:15,480 [INFO] Stitching radar tile 29/36..
+2025-06-16 06:25:15,481 [INFO] Stitching radar tile 30/36..
+2025-06-16 06:25:15,481 [INFO] Stitching radar tile 31/36..
+2025-06-16 06:25:15,481 [INFO] Stitching radar tile 32/36..
+2025-06-16 06:25:15,481 [INFO] Stitching radar tile 33/36..
+2025-06-16 06:25:15,481 [INFO] Stitching radar tile 34/36..
+2025-06-16 06:25:15,481 [INFO] Stitching radar tile 35/36..
+2025-06-16 06:25:15,481 [INFO] Compositing frame 1/1
+2025-06-16 06:30:19,893 [INFO] Creating radar frames..
+2025-06-16 06:30:20,141 [INFO] Cleared 1 radar frames.
+2025-06-16 06:30:25,682 [INFO] Stitching radar tile 0/36..
+2025-06-16 06:30:25,883 [INFO] Stitching radar tile 1/36..
+2025-06-16 06:30:25,883 [INFO] Stitching radar tile 2/36..
+2025-06-16 06:30:25,884 [INFO] Stitching radar tile 3/36..
+2025-06-16 06:30:25,884 [INFO] Stitching radar tile 4/36..
+2025-06-16 06:30:25,884 [INFO] Stitching radar tile 5/36..
+2025-06-16 06:30:25,884 [INFO] Stitching radar tile 6/36..
+2025-06-16 06:30:25,884 [INFO] Stitching radar tile 7/36..
+2025-06-16 06:30:25,884 [INFO] Stitching radar tile 8/36..
+2025-06-16 06:30:25,884 [INFO] Stitching radar tile 9/36..
+2025-06-16 06:30:25,884 [INFO] Stitching radar tile 10/36..
+2025-06-16 06:30:25,885 [INFO] Stitching radar tile 11/36..
+2025-06-16 06:30:25,885 [INFO] Stitching radar tile 12/36..
+2025-06-16 06:30:25,885 [INFO] Stitching radar tile 13/36..
+2025-06-16 06:30:25,885 [INFO] Stitching radar tile 14/36..
+2025-06-16 06:30:25,885 [INFO] Stitching radar tile 15/36..
+2025-06-16 06:30:25,885 [INFO] Stitching radar tile 16/36..
+2025-06-16 06:30:25,886 [INFO] Stitching radar tile 17/36..
+2025-06-16 06:30:25,886 [INFO] Stitching radar tile 18/36..
+2025-06-16 06:30:25,886 [INFO] Stitching radar tile 19/36..
+2025-06-16 06:30:25,886 [INFO] Stitching radar tile 20/36..
+2025-06-16 06:30:25,886 [INFO] Stitching radar tile 21/36..
+2025-06-16 06:30:25,886 [INFO] Stitching radar tile 22/36..
+2025-06-16 06:30:25,886 [INFO] Stitching radar tile 23/36..
+2025-06-16 06:30:25,887 [INFO] Stitching radar tile 24/36..
+2025-06-16 06:30:25,887 [INFO] Stitching radar tile 25/36..
+2025-06-16 06:30:25,887 [INFO] Stitching radar tile 26/36..
+2025-06-16 06:30:25,887 [INFO] Stitching radar tile 27/36..
+2025-06-16 06:30:25,887 [INFO] Stitching radar tile 28/36..
+2025-06-16 06:30:25,887 [INFO] Stitching radar tile 29/36..
+2025-06-16 06:30:25,887 [INFO] Stitching radar tile 30/36..
+2025-06-16 06:30:25,887 [INFO] Stitching radar tile 31/36..
+2025-06-16 06:30:25,888 [INFO] Stitching radar tile 32/36..
+2025-06-16 06:30:25,888 [INFO] Stitching radar tile 33/36..
+2025-06-16 06:30:25,888 [INFO] Stitching radar tile 34/36..
+2025-06-16 06:30:25,888 [INFO] Stitching radar tile 35/36..
+2025-06-16 06:30:25,888 [INFO] Compositing frame 1/1
+2025-06-16 06:35:30,349 [INFO] Creating radar frames..
+2025-06-16 06:35:30,617 [INFO] Cleared 1 radar frames.
+2025-06-16 06:35:36,376 [INFO] Stitching radar tile 0/36..
+2025-06-16 06:35:36,575 [INFO] Stitching radar tile 1/36..
+2025-06-16 06:35:36,576 [INFO] Stitching radar tile 2/36..
+2025-06-16 06:35:36,576 [INFO] Stitching radar tile 3/36..
+2025-06-16 06:35:36,576 [INFO] Stitching radar tile 4/36..
+2025-06-16 06:35:36,576 [INFO] Stitching radar tile 5/36..
+2025-06-16 06:35:36,576 [INFO] Stitching radar tile 6/36..
+2025-06-16 06:35:36,576 [INFO] Stitching radar tile 7/36..
+2025-06-16 06:35:36,576 [INFO] Stitching radar tile 8/36..
+2025-06-16 06:35:36,577 [INFO] Stitching radar tile 9/36..
+2025-06-16 06:35:36,577 [INFO] Stitching radar tile 10/36..
+2025-06-16 06:35:36,577 [INFO] Stitching radar tile 11/36..
+2025-06-16 06:35:36,577 [INFO] Stitching radar tile 12/36..
+2025-06-16 06:35:36,577 [INFO] Stitching radar tile 13/36..
+2025-06-16 06:35:36,577 [INFO] Stitching radar tile 14/36..
+2025-06-16 06:35:36,578 [INFO] Stitching radar tile 15/36..
+2025-06-16 06:35:36,578 [INFO] Stitching radar tile 16/36..
+2025-06-16 06:35:36,578 [INFO] Stitching radar tile 17/36..
+2025-06-16 06:35:36,578 [INFO] Stitching radar tile 18/36..
+2025-06-16 06:35:36,578 [INFO] Stitching radar tile 19/36..
+2025-06-16 06:35:36,578 [INFO] Stitching radar tile 20/36..
+2025-06-16 06:35:36,578 [INFO] Stitching radar tile 21/36..
+2025-06-16 06:35:36,578 [INFO] Stitching radar tile 22/36..
+2025-06-16 06:35:36,579 [INFO] Stitching radar tile 23/36..
+2025-06-16 06:35:36,579 [INFO] Stitching radar tile 24/36..
+2025-06-16 06:35:36,579 [INFO] Stitching radar tile 25/36..
+2025-06-16 06:35:36,579 [INFO] Stitching radar tile 26/36..
+2025-06-16 06:35:36,579 [INFO] Stitching radar tile 27/36..
+2025-06-16 06:35:36,579 [INFO] Stitching radar tile 28/36..
+2025-06-16 06:35:36,579 [INFO] Stitching radar tile 29/36..
+2025-06-16 06:35:36,579 [INFO] Stitching radar tile 30/36..
+2025-06-16 06:35:36,580 [INFO] Stitching radar tile 31/36..
+2025-06-16 06:35:36,580 [INFO] Stitching radar tile 32/36..
+2025-06-16 06:35:36,580 [INFO] Stitching radar tile 33/36..
+2025-06-16 06:35:36,580 [INFO] Stitching radar tile 34/36..
+2025-06-16 06:35:36,580 [INFO] Stitching radar tile 35/36..
+2025-06-16 06:35:36,580 [INFO] Compositing frame 1/1
+2025-06-16 06:40:41,072 [INFO] Creating radar frames..
+2025-06-16 06:40:41,325 [INFO] Cleared 1 radar frames.
+2025-06-16 06:40:47,017 [INFO] Stitching radar tile 0/36..
+2025-06-16 06:40:47,222 [INFO] Stitching radar tile 1/36..
+2025-06-16 06:40:47,222 [INFO] Stitching radar tile 2/36..
+2025-06-16 06:40:47,222 [INFO] Stitching radar tile 3/36..
+2025-06-16 06:40:47,222 [INFO] Stitching radar tile 4/36..
+2025-06-16 06:40:47,222 [INFO] Stitching radar tile 5/36..
+2025-06-16 06:40:47,223 [INFO] Stitching radar tile 6/36..
+2025-06-16 06:40:47,223 [INFO] Stitching radar tile 7/36..
+2025-06-16 06:40:47,223 [INFO] Stitching radar tile 8/36..
+2025-06-16 06:40:47,223 [INFO] Stitching radar tile 9/36..
+2025-06-16 06:40:47,223 [INFO] Stitching radar tile 10/36..
+2025-06-16 06:40:47,223 [INFO] Stitching radar tile 11/36..
+2025-06-16 06:40:47,223 [INFO] Stitching radar tile 12/36..
+2025-06-16 06:40:47,223 [INFO] Stitching radar tile 13/36..
+2025-06-16 06:40:47,224 [INFO] Stitching radar tile 14/36..
+2025-06-16 06:40:47,224 [INFO] Stitching radar tile 15/36..
+2025-06-16 06:40:47,224 [INFO] Stitching radar tile 16/36..
+2025-06-16 06:40:47,224 [INFO] Stitching radar tile 17/36..
+2025-06-16 06:40:47,224 [INFO] Stitching radar tile 18/36..
+2025-06-16 06:40:47,224 [INFO] Stitching radar tile 19/36..
+2025-06-16 06:40:47,225 [INFO] Stitching radar tile 20/36..
+2025-06-16 06:40:47,225 [INFO] Stitching radar tile 21/36..
+2025-06-16 06:40:47,225 [INFO] Stitching radar tile 22/36..
+2025-06-16 06:40:47,225 [INFO] Stitching radar tile 23/36..
+2025-06-16 06:40:47,225 [INFO] Stitching radar tile 24/36..
+2025-06-16 06:40:47,225 [INFO] Stitching radar tile 25/36..
+2025-06-16 06:40:47,225 [INFO] Stitching radar tile 26/36..
+2025-06-16 06:40:47,225 [INFO] Stitching radar tile 27/36..
+2025-06-16 06:40:47,226 [INFO] Stitching radar tile 28/36..
+2025-06-16 06:40:47,226 [INFO] Stitching radar tile 29/36..
+2025-06-16 06:40:47,226 [INFO] Stitching radar tile 30/36..
+2025-06-16 06:40:47,226 [INFO] Stitching radar tile 31/36..
+2025-06-16 06:40:47,226 [INFO] Stitching radar tile 32/36..
+2025-06-16 06:40:47,226 [INFO] Stitching radar tile 33/36..
+2025-06-16 06:40:47,226 [INFO] Stitching radar tile 34/36..
+2025-06-16 06:40:47,226 [INFO] Stitching radar tile 35/36..
+2025-06-16 06:40:47,227 [INFO] Compositing frame 1/1
+2025-06-16 06:45:51,632 [INFO] Creating radar frames..
+2025-06-16 06:45:51,910 [INFO] Cleared 1 radar frames.
+2025-06-16 06:45:58,373 [INFO] Stitching radar tile 0/36..
+2025-06-16 06:45:58,577 [INFO] Stitching radar tile 1/36..
+2025-06-16 06:45:58,577 [INFO] Stitching radar tile 2/36..
+2025-06-16 06:45:58,577 [INFO] Stitching radar tile 3/36..
+2025-06-16 06:45:58,577 [INFO] Stitching radar tile 4/36..
+2025-06-16 06:45:58,578 [INFO] Stitching radar tile 5/36..
+2025-06-16 06:45:58,578 [INFO] Stitching radar tile 6/36..
+2025-06-16 06:45:58,578 [INFO] Stitching radar tile 7/36..
+2025-06-16 06:45:58,578 [INFO] Stitching radar tile 8/36..
+2025-06-16 06:45:58,578 [INFO] Stitching radar tile 9/36..
+2025-06-16 06:45:58,578 [INFO] Stitching radar tile 10/36..
+2025-06-16 06:45:58,578 [INFO] Stitching radar tile 11/36..
+2025-06-16 06:45:58,578 [INFO] Stitching radar tile 12/36..
+2025-06-16 06:45:58,579 [INFO] Stitching radar tile 13/36..
+2025-06-16 06:45:58,579 [INFO] Stitching radar tile 14/36..
+2025-06-16 06:45:58,579 [INFO] Stitching radar tile 15/36..
+2025-06-16 06:45:58,579 [INFO] Stitching radar tile 16/36..
+2025-06-16 06:45:58,579 [INFO] Stitching radar tile 17/36..
+2025-06-16 06:45:58,579 [INFO] Stitching radar tile 18/36..
+2025-06-16 06:45:58,579 [INFO] Stitching radar tile 19/36..
+2025-06-16 06:45:58,580 [INFO] Stitching radar tile 20/36..
+2025-06-16 06:45:58,580 [INFO] Stitching radar tile 21/36..
+2025-06-16 06:45:58,580 [INFO] Stitching radar tile 22/36..
+2025-06-16 06:45:58,580 [INFO] Stitching radar tile 23/36..
+2025-06-16 06:45:58,580 [INFO] Stitching radar tile 24/36..
+2025-06-16 06:45:58,580 [INFO] Stitching radar tile 25/36..
+2025-06-16 06:45:58,580 [INFO] Stitching radar tile 26/36..
+2025-06-16 06:45:58,581 [INFO] Stitching radar tile 27/36..
+2025-06-16 06:45:58,581 [INFO] Stitching radar tile 28/36..
+2025-06-16 06:45:58,581 [INFO] Stitching radar tile 29/36..
+2025-06-16 06:45:58,581 [INFO] Stitching radar tile 30/36..
+2025-06-16 06:45:58,581 [INFO] Stitching radar tile 31/36..
+2025-06-16 06:45:58,581 [INFO] Stitching radar tile 32/36..
+2025-06-16 06:45:58,581 [INFO] Stitching radar tile 33/36..
+2025-06-16 06:45:58,581 [INFO] Stitching radar tile 34/36..
+2025-06-16 06:45:58,582 [INFO] Stitching radar tile 35/36..
+2025-06-16 06:45:58,582 [INFO] Compositing frame 1/1
+2025-06-16 06:51:02,981 [INFO] Creating radar frames..
+2025-06-16 06:51:03,223 [INFO] Cleared 1 radar frames.
+2025-06-16 13:33:54,728 [INFO] Starting i2Radar..
+2025-06-16 13:33:54,728 [INFO] Beginning Initial frame generation
+2025-06-16 13:33:54,729 [INFO] Creating radar frames..
+2025-06-16 13:33:55,010 [INFO] Cleared 35 radar frames.
+2025-06-16 13:36:07,300 [INFO] Stitching radar tile 0/36..
+2025-06-16 13:36:07,557 [INFO] Stitching radar tile 1/36..
+2025-06-16 13:36:07,762 [INFO] Stitching radar tile 2/36..
+2025-06-16 13:36:07,969 [INFO] Stitching radar tile 3/36..
+2025-06-16 13:36:08,178 [INFO] Stitching radar tile 4/36..
+2025-06-16 13:36:08,387 [INFO] Stitching radar tile 5/36..
+2025-06-16 13:36:08,604 [INFO] Stitching radar tile 6/36..
+2025-06-16 13:36:08,810 [INFO] Stitching radar tile 7/36..
+2025-06-16 13:36:09,017 [INFO] Stitching radar tile 8/36..
+2025-06-16 13:36:09,239 [INFO] Stitching radar tile 9/36..
+2025-06-16 13:36:09,451 [INFO] Stitching radar tile 10/36..
+2025-06-16 13:36:09,662 [INFO] Stitching radar tile 11/36..
+2025-06-16 13:36:09,875 [INFO] Stitching radar tile 12/36..
+2025-06-16 13:36:10,093 [INFO] Stitching radar tile 13/36..
+2025-06-16 13:36:10,316 [INFO] Stitching radar tile 14/36..
+2025-06-16 13:36:10,536 [INFO] Stitching radar tile 15/36..
+2025-06-16 13:36:10,796 [INFO] Stitching radar tile 16/36..
+2025-06-16 13:36:11,015 [INFO] Stitching radar tile 17/36..
+2025-06-16 13:36:11,228 [INFO] Stitching radar tile 18/36..
+2025-06-16 13:36:11,439 [INFO] Stitching radar tile 19/36..
+2025-06-16 13:36:11,655 [INFO] Stitching radar tile 20/36..
+2025-06-16 13:36:11,866 [INFO] Stitching radar tile 21/36..
+2025-06-16 13:36:12,076 [INFO] Stitching radar tile 22/36..
+2025-06-16 13:36:12,290 [INFO] Stitching radar tile 23/36..
+2025-06-16 13:36:12,505 [INFO] Stitching radar tile 24/36..
+2025-06-16 13:36:12,733 [INFO] Stitching radar tile 25/36..
+2025-06-16 13:36:12,970 [INFO] Stitching radar tile 26/36..
+2025-06-16 13:36:13,182 [INFO] Stitching radar tile 27/36..
+2025-06-16 13:36:13,410 [INFO] Stitching radar tile 28/36..
+2025-06-16 13:36:13,660 [INFO] Stitching radar tile 29/36..
+2025-06-16 13:36:13,944 [INFO] Stitching radar tile 30/36..
+2025-06-16 13:36:14,172 [INFO] Stitching radar tile 31/36..
+2025-06-16 13:36:14,413 [INFO] Stitching radar tile 32/36..
+2025-06-16 13:36:14,634 [INFO] Stitching radar tile 33/36..
+2025-06-16 13:36:14,845 [INFO] Stitching radar tile 34/36..
+2025-06-16 13:36:15,057 [INFO] Stitching radar tile 35/36..
+2025-06-16 13:36:15,324 [INFO] Compositing frame 1/36
+2025-06-16 13:36:22,095 [INFO] Compositing frame 2/36
+2025-06-16 13:36:26,270 [INFO] Compositing frame 3/36
+2025-06-16 13:36:30,414 [INFO] Compositing frame 4/36
+2025-06-16 13:36:34,583 [INFO] Compositing frame 5/36
+2025-06-16 13:36:38,746 [INFO] Compositing frame 6/36
+2025-06-16 13:36:43,050 [INFO] Compositing frame 7/36
+2025-06-16 13:36:47,308 [INFO] Compositing frame 8/36
+2025-06-16 13:36:51,582 [INFO] Compositing frame 9/36
+2025-06-16 13:36:55,777 [INFO] Compositing frame 10/36
+2025-06-16 13:36:59,968 [INFO] Compositing frame 11/36
+2025-06-16 13:37:04,216 [INFO] Compositing frame 12/36
+2025-06-16 13:37:08,400 [INFO] Compositing frame 13/36
+2025-06-16 13:37:12,573 [INFO] Compositing frame 14/36
+2025-06-16 13:37:16,890 [INFO] Compositing frame 15/36
+2025-06-16 13:37:21,165 [INFO] Compositing frame 16/36
+2025-06-16 13:37:25,380 [INFO] Compositing frame 17/36
+2025-06-16 13:37:29,601 [INFO] Compositing frame 18/36
+2025-06-16 13:37:33,789 [INFO] Compositing frame 19/36
+2025-06-16 13:37:37,963 [INFO] Compositing frame 20/36
+2025-06-16 13:37:42,137 [INFO] Compositing frame 21/36
+2025-06-16 13:37:46,320 [INFO] Compositing frame 22/36
+2025-06-16 13:37:50,522 [INFO] Compositing frame 23/36
+2025-06-16 13:37:54,701 [INFO] Compositing frame 24/36
+2025-06-16 13:37:58,898 [INFO] Compositing frame 25/36
+2025-06-16 13:38:03,099 [INFO] Compositing frame 26/36
+2025-06-16 13:38:07,323 [INFO] Compositing frame 27/36
+2025-06-16 13:38:11,537 [INFO] Compositing frame 28/36
+2025-06-16 13:38:15,738 [INFO] Compositing frame 29/36
+2025-06-16 13:38:19,935 [INFO] Compositing frame 30/36
+2025-06-16 13:38:24,131 [INFO] Compositing frame 31/36
+2025-06-16 13:38:28,326 [INFO] Compositing frame 32/36
+2025-06-16 13:38:32,490 [INFO] Compositing frame 33/36
+2025-06-16 13:38:36,663 [INFO] Compositing frame 34/36
+2025-06-16 13:38:40,858 [INFO] Compositing frame 35/36
+2025-06-16 13:38:45,028 [INFO] Compositing frame 36/36
+2025-06-16 13:43:49,562 [INFO] Creating radar frames..
+2025-06-16 13:43:49,836 [INFO] Cleared 2 radar frames.
+2025-06-16 13:43:59,395 [INFO] Stitching radar tile 0/36..
+2025-06-16 13:43:59,616 [INFO] Stitching radar tile 1/36..
+2025-06-16 13:43:59,832 [INFO] Stitching radar tile 2/36..
+2025-06-16 13:43:59,832 [INFO] Stitching radar tile 3/36..
+2025-06-16 13:43:59,832 [INFO] Stitching radar tile 4/36..
+2025-06-16 13:43:59,832 [INFO] Stitching radar tile 5/36..
+2025-06-16 13:43:59,832 [INFO] Stitching radar tile 6/36..
+2025-06-16 13:43:59,833 [INFO] Stitching radar tile 7/36..
+2025-06-16 13:43:59,833 [INFO] Stitching radar tile 8/36..
+2025-06-16 13:43:59,833 [INFO] Stitching radar tile 9/36..
+2025-06-16 13:43:59,833 [INFO] Stitching radar tile 10/36..
+2025-06-16 13:43:59,833 [INFO] Stitching radar tile 11/36..
+2025-06-16 13:43:59,833 [INFO] Stitching radar tile 12/36..
+2025-06-16 13:43:59,834 [INFO] Stitching radar tile 13/36..
+2025-06-16 13:43:59,834 [INFO] Stitching radar tile 14/36..
+2025-06-16 13:43:59,834 [INFO] Stitching radar tile 15/36..
+2025-06-16 13:43:59,834 [INFO] Stitching radar tile 16/36..
+2025-06-16 13:43:59,834 [INFO] Stitching radar tile 17/36..
+2025-06-16 13:43:59,834 [INFO] Stitching radar tile 18/36..
+2025-06-16 13:43:59,834 [INFO] Stitching radar tile 19/36..
+2025-06-16 13:43:59,834 [INFO] Stitching radar tile 20/36..
+2025-06-16 13:43:59,834 [INFO] Stitching radar tile 21/36..
+2025-06-16 13:43:59,835 [INFO] Stitching radar tile 22/36..
+2025-06-16 13:43:59,835 [INFO] Stitching radar tile 23/36..
+2025-06-16 13:43:59,835 [INFO] Stitching radar tile 24/36..
+2025-06-16 13:43:59,835 [INFO] Stitching radar tile 25/36..
+2025-06-16 13:43:59,835 [INFO] Stitching radar tile 26/36..
+2025-06-16 13:43:59,835 [INFO] Stitching radar tile 27/36..
+2025-06-16 13:43:59,835 [INFO] Stitching radar tile 28/36..
+2025-06-16 13:43:59,835 [INFO] Stitching radar tile 29/36..
+2025-06-16 13:43:59,836 [INFO] Stitching radar tile 30/36..
+2025-06-16 13:43:59,836 [INFO] Stitching radar tile 31/36..
+2025-06-16 13:43:59,836 [INFO] Stitching radar tile 32/36..
+2025-06-16 13:43:59,836 [INFO] Stitching radar tile 33/36..
+2025-06-16 13:43:59,836 [INFO] Stitching radar tile 34/36..
+2025-06-16 13:43:59,836 [INFO] Stitching radar tile 35/36..
+2025-06-16 13:43:59,836 [INFO] Compositing frame 1/2
+2025-06-16 13:44:03,963 [INFO] Compositing frame 2/2
+2025-06-16 13:49:08,415 [INFO] Creating radar frames..
+2025-06-16 13:49:08,819 [INFO] Cleared 1 radar frames.
+2025-06-16 13:49:14,048 [INFO] Stitching radar tile 0/36..
+2025-06-16 13:49:14,263 [INFO] Stitching radar tile 1/36..
+2025-06-16 13:49:14,263 [INFO] Stitching radar tile 2/36..
+2025-06-16 13:49:14,263 [INFO] Stitching radar tile 3/36..
+2025-06-16 13:49:14,263 [INFO] Stitching radar tile 4/36..
+2025-06-16 13:49:14,263 [INFO] Stitching radar tile 5/36..
+2025-06-16 13:49:14,263 [INFO] Stitching radar tile 6/36..
+2025-06-16 13:49:14,263 [INFO] Stitching radar tile 7/36..
+2025-06-16 13:49:14,264 [INFO] Stitching radar tile 8/36..
+2025-06-16 13:49:14,264 [INFO] Stitching radar tile 9/36..
+2025-06-16 13:49:14,264 [INFO] Stitching radar tile 10/36..
+2025-06-16 13:49:14,264 [INFO] Stitching radar tile 11/36..
+2025-06-16 13:49:14,264 [INFO] Stitching radar tile 12/36..
+2025-06-16 13:49:14,264 [INFO] Stitching radar tile 13/36..
+2025-06-16 13:49:14,264 [INFO] Stitching radar tile 14/36..
+2025-06-16 13:49:14,264 [INFO] Stitching radar tile 15/36..
+2025-06-16 13:49:14,265 [INFO] Stitching radar tile 16/36..
+2025-06-16 13:49:14,265 [INFO] Stitching radar tile 17/36..
+2025-06-16 13:49:14,265 [INFO] Stitching radar tile 18/36..
+2025-06-16 13:49:14,265 [INFO] Stitching radar tile 19/36..
+2025-06-16 13:49:14,265 [INFO] Stitching radar tile 20/36..
+2025-06-16 13:49:14,265 [INFO] Stitching radar tile 21/36..
+2025-06-16 13:49:14,265 [INFO] Stitching radar tile 22/36..
+2025-06-16 13:49:14,266 [INFO] Stitching radar tile 23/36..
+2025-06-16 13:49:14,266 [INFO] Stitching radar tile 24/36..
+2025-06-16 13:49:14,266 [INFO] Stitching radar tile 25/36..
+2025-06-16 13:49:14,266 [INFO] Stitching radar tile 26/36..
+2025-06-16 13:49:14,266 [INFO] Stitching radar tile 27/36..
+2025-06-16 13:49:14,266 [INFO] Stitching radar tile 28/36..
+2025-06-16 13:49:14,266 [INFO] Stitching radar tile 29/36..
+2025-06-16 13:49:14,266 [INFO] Stitching radar tile 30/36..
+2025-06-16 13:49:14,267 [INFO] Stitching radar tile 31/36..
+2025-06-16 13:49:14,267 [INFO] Stitching radar tile 32/36..
+2025-06-16 13:49:14,267 [INFO] Stitching radar tile 33/36..
+2025-06-16 13:49:14,267 [INFO] Stitching radar tile 34/36..
+2025-06-16 13:49:14,267 [INFO] Stitching radar tile 35/36..
+2025-06-16 13:49:14,267 [INFO] Compositing frame 1/1
+2025-06-16 13:52:33,830 [INFO] Starting i2Radar..
+2025-06-16 13:52:33,830 [INFO] Creating radar frames..
+2025-06-16 13:52:34,023 [INFO] Cleared 1 radar frames.
+2025-06-16 13:52:41,344 [INFO] Stitching radar tile 0/36..
+2025-06-16 13:52:41,612 [INFO] Stitching radar tile 1/36..
+2025-06-16 13:52:41,612 [INFO] Stitching radar tile 2/36..
+2025-06-16 13:52:41,612 [INFO] Stitching radar tile 3/36..
+2025-06-16 13:52:41,612 [INFO] Stitching radar tile 4/36..
+2025-06-16 13:52:41,613 [INFO] Stitching radar tile 5/36..
+2025-06-16 13:52:41,613 [INFO] Stitching radar tile 6/36..
+2025-06-16 13:52:41,613 [INFO] Stitching radar tile 7/36..
+2025-06-16 13:52:41,613 [INFO] Stitching radar tile 8/36..
+2025-06-16 13:52:41,613 [INFO] Stitching radar tile 9/36..
+2025-06-16 13:52:41,613 [INFO] Stitching radar tile 10/36..
+2025-06-16 13:52:41,613 [INFO] Stitching radar tile 11/36..
+2025-06-16 13:52:41,613 [INFO] Stitching radar tile 12/36..
+2025-06-16 13:52:41,614 [INFO] Stitching radar tile 13/36..
+2025-06-16 13:52:41,614 [INFO] Stitching radar tile 14/36..
+2025-06-16 13:52:41,614 [INFO] Stitching radar tile 15/36..
+2025-06-16 13:52:41,614 [INFO] Stitching radar tile 16/36..
+2025-06-16 13:52:41,614 [INFO] Stitching radar tile 17/36..
+2025-06-16 13:52:41,614 [INFO] Stitching radar tile 18/36..
+2025-06-16 13:52:41,614 [INFO] Stitching radar tile 19/36..
+2025-06-16 13:52:41,614 [INFO] Stitching radar tile 20/36..
+2025-06-16 13:52:41,615 [INFO] Stitching radar tile 21/36..
+2025-06-16 13:52:41,615 [INFO] Stitching radar tile 22/36..
+2025-06-16 13:52:41,615 [INFO] Stitching radar tile 23/36..
+2025-06-16 13:52:41,615 [INFO] Stitching radar tile 24/36..
+2025-06-16 13:52:41,615 [INFO] Stitching radar tile 25/36..
+2025-06-16 13:52:41,615 [INFO] Stitching radar tile 26/36..
+2025-06-16 13:52:41,616 [INFO] Stitching radar tile 27/36..
+2025-06-16 13:52:41,616 [INFO] Stitching radar tile 28/36..
+2025-06-16 13:52:41,616 [INFO] Stitching radar tile 29/36..
+2025-06-16 13:52:41,616 [INFO] Stitching radar tile 30/36..
+2025-06-16 13:52:41,616 [INFO] Stitching radar tile 31/36..
+2025-06-16 13:52:41,616 [INFO] Stitching radar tile 32/36..
+2025-06-16 13:52:41,616 [INFO] Stitching radar tile 33/36..
+2025-06-16 13:52:41,616 [INFO] Stitching radar tile 34/36..
+2025-06-16 13:52:41,617 [INFO] Stitching radar tile 35/36..
+2025-06-16 13:52:41,617 [INFO] Compositing frame 1/1
+2025-06-16 13:52:45,904 [INFO] Created 1 new radar frames.
+2025-06-16 13:54:50,071 [INFO] Starting i2Radar..
+2025-06-16 13:54:50,072 [INFO] Creating radar frames..
+2025-06-16 13:54:50,323 [INFO] Cleared 0 radar frames.
+2025-06-16 13:56:03,202 [INFO] Starting i2Radar..
+2025-06-16 13:56:03,203 [INFO] Creating radar frames..
+2025-06-16 13:56:03,420 [INFO] Cleared 0 radar frames.
+2025-06-16 13:58:16,411 [1845602::INFO] Starting i2Radar..
+2025-06-16 13:58:16,412 [1845602::INFO] Creating radar frames..
+2025-06-16 13:58:16,653 [1845602::INFO] Cleared 1 radar frames.
+2025-06-16 14:00:35,338 [INFO] Starting i2Radar..
+2025-06-16 14:00:35,346 [INFO] Creating radar frames..
+2025-06-16 14:00:35,572 [INFO] Cleared 0 radar frames.
+2025-06-16 14:00:40,295 [INFO] Stitching radar tile 0/36..
+2025-06-16 14:00:40,563 [INFO] Stitching radar tile 1/36..
+2025-06-16 14:00:40,563 [INFO] Stitching radar tile 2/36..
+2025-06-16 14:00:40,564 [INFO] Stitching radar tile 3/36..
+2025-06-16 14:00:40,564 [INFO] Stitching radar tile 4/36..
+2025-06-16 14:00:40,564 [INFO] Stitching radar tile 5/36..
+2025-06-16 14:00:40,564 [INFO] Stitching radar tile 6/36..
+2025-06-16 14:00:40,564 [INFO] Stitching radar tile 7/36..
+2025-06-16 14:00:40,564 [INFO] Stitching radar tile 8/36..
+2025-06-16 14:00:40,564 [INFO] Stitching radar tile 9/36..
+2025-06-16 14:00:40,564 [INFO] Stitching radar tile 10/36..
+2025-06-16 14:00:40,565 [INFO] Stitching radar tile 11/36..
+2025-06-16 14:00:40,565 [INFO] Stitching radar tile 12/36..
+2025-06-16 14:00:40,565 [INFO] Stitching radar tile 13/36..
+2025-06-16 14:00:40,565 [INFO] Stitching radar tile 14/36..
+2025-06-16 14:00:40,565 [INFO] Stitching radar tile 15/36..
+2025-06-16 14:00:40,565 [INFO] Stitching radar tile 16/36..
+2025-06-16 14:00:40,565 [INFO] Stitching radar tile 17/36..
+2025-06-16 14:00:40,566 [INFO] Stitching radar tile 18/36..
+2025-06-16 14:00:40,566 [INFO] Stitching radar tile 19/36..
+2025-06-16 14:00:40,566 [INFO] Stitching radar tile 20/36..
+2025-06-16 14:00:40,566 [INFO] Stitching radar tile 21/36..
+2025-06-16 14:00:40,566 [INFO] Stitching radar tile 22/36..
+2025-06-16 14:00:40,566 [INFO] Stitching radar tile 23/36..
+2025-06-16 14:00:40,566 [INFO] Stitching radar tile 24/36..
+2025-06-16 14:00:40,566 [INFO] Stitching radar tile 25/36..
+2025-06-16 14:00:40,567 [INFO] Stitching radar tile 26/36..
+2025-06-16 14:00:40,567 [INFO] Stitching radar tile 27/36..
+2025-06-16 14:00:40,567 [INFO] Stitching radar tile 28/36..
+2025-06-16 14:00:40,567 [INFO] Stitching radar tile 29/36..
+2025-06-16 14:00:40,567 [INFO] Stitching radar tile 30/36..
+2025-06-16 14:00:40,567 [INFO] Stitching radar tile 31/36..
+2025-06-16 14:00:40,567 [INFO] Stitching radar tile 32/36..
+2025-06-16 14:00:40,567 [INFO] Stitching radar tile 33/36..
+2025-06-16 14:00:40,568 [INFO] Stitching radar tile 34/36..
+2025-06-16 14:00:40,568 [INFO] Stitching radar tile 35/36..
+2025-06-16 14:00:40,568 [INFO] Compositing frame 1/1
+2025-06-16 14:00:44,747 [INFO] Created 1 new radar frames.
+2025-06-16 14:01:31,025 [INFO] Starting i2Radar..
+2025-06-16 14:01:31,026 [INFO] Creating radar frames..
+2025-06-16 14:01:31,218 [INFO] Cleared 1 radar frames.
+2025-06-16 14:01:38,275 [INFO] Stitching radar tile 1/36..
+2025-06-16 14:01:38,537 [INFO] Stitching radar tile 2/36..
+2025-06-16 14:01:38,537 [INFO] Stitching radar tile 3/36..
+2025-06-16 14:01:38,537 [INFO] Stitching radar tile 4/36..
+2025-06-16 14:01:38,538 [INFO] Stitching radar tile 5/36..
+2025-06-16 14:01:38,538 [INFO] Stitching radar tile 6/36..
+2025-06-16 14:01:38,538 [INFO] Stitching radar tile 7/36..
+2025-06-16 14:01:38,539 [INFO] Stitching radar tile 8/36..
+2025-06-16 14:01:38,539 [INFO] Stitching radar tile 9/36..
+2025-06-16 14:01:38,539 [INFO] Stitching radar tile 10/36..
+2025-06-16 14:01:38,539 [INFO] Stitching radar tile 11/36..
+2025-06-16 14:01:38,539 [INFO] Stitching radar tile 12/36..
+2025-06-16 14:01:38,539 [INFO] Stitching radar tile 13/36..
+2025-06-16 14:01:38,540 [INFO] Stitching radar tile 14/36..
+2025-06-16 14:01:38,540 [INFO] Stitching radar tile 15/36..
+2025-06-16 14:01:38,540 [INFO] Stitching radar tile 16/36..
+2025-06-16 14:01:38,540 [INFO] Stitching radar tile 17/36..
+2025-06-16 14:01:38,540 [INFO] Stitching radar tile 18/36..
+2025-06-16 14:01:38,540 [INFO] Stitching radar tile 19/36..
+2025-06-16 14:01:38,540 [INFO] Stitching radar tile 20/36..
+2025-06-16 14:01:38,540 [INFO] Stitching radar tile 21/36..
+2025-06-16 14:01:38,541 [INFO] Stitching radar tile 22/36..
+2025-06-16 14:01:38,541 [INFO] Stitching radar tile 23/36..
+2025-06-16 14:01:38,541 [INFO] Stitching radar tile 24/36..
+2025-06-16 14:01:38,541 [INFO] Stitching radar tile 25/36..
+2025-06-16 14:01:38,541 [INFO] Stitching radar tile 26/36..
+2025-06-16 14:01:38,541 [INFO] Stitching radar tile 27/36..
+2025-06-16 14:01:38,541 [INFO] Stitching radar tile 28/36..
+2025-06-16 14:01:38,541 [INFO] Stitching radar tile 29/36..
+2025-06-16 14:01:38,541 [INFO] Stitching radar tile 30/36..
+2025-06-16 14:01:38,542 [INFO] Stitching radar tile 31/36..
+2025-06-16 14:01:38,542 [INFO] Stitching radar tile 32/36..
+2025-06-16 14:01:38,542 [INFO] Stitching radar tile 33/36..
+2025-06-16 14:01:38,542 [INFO] Stitching radar tile 34/36..
+2025-06-16 14:01:38,542 [INFO] Stitching radar tile 35/36..
+2025-06-16 14:01:38,542 [INFO] Stitching radar tile 36/36..
+2025-06-16 14:01:38,542 [INFO] Compositing frame 1/1
+2025-06-16 14:01:42,684 [INFO] Created 1 new radar frames.
+2025-06-16 14:03:41,056 [INFO] Starting i2Radar..
+2025-06-16 14:03:41,056 [INFO] Creating radar frames..
+2025-06-16 14:03:41,283 [INFO] Cleared 0 radar frames.
+2025-06-16 14:03:44,968 [INFO] Stitching radar tile 1/36..
+2025-06-16 14:03:45,032 [INFO] Stitching radar tile 2/36..
+2025-06-16 14:03:45,041 [INFO] Stitching radar tile 3/36..
+2025-06-16 14:03:45,050 [INFO] Stitching radar tile 4/36..
+2025-06-16 14:03:45,058 [INFO] Stitching radar tile 5/36..
+2025-06-16 14:03:45,067 [INFO] Stitching radar tile 6/36..
+2025-06-16 14:03:45,076 [INFO] Stitching radar tile 7/36..
+2025-06-16 14:03:45,084 [INFO] Stitching radar tile 8/36..
+2025-06-16 14:03:45,093 [INFO] Stitching radar tile 9/36..
+2025-06-16 14:03:45,101 [INFO] Stitching radar tile 10/36..
+2025-06-16 14:03:45,110 [INFO] Stitching radar tile 11/36..
+2025-06-16 14:03:45,118 [INFO] Stitching radar tile 12/36..
+2025-06-16 14:03:45,127 [INFO] Stitching radar tile 13/36..
+2025-06-16 14:03:45,136 [INFO] Stitching radar tile 14/36..
+2025-06-16 14:03:45,144 [INFO] Stitching radar tile 15/36..
+2025-06-16 14:03:45,153 [INFO] Stitching radar tile 16/36..
+2025-06-16 14:03:45,161 [INFO] Stitching radar tile 17/36..
+2025-06-16 14:03:45,169 [INFO] Stitching radar tile 18/36..
+2025-06-16 14:03:45,178 [INFO] Stitching radar tile 19/36..
+2025-06-16 14:03:45,187 [INFO] Stitching radar tile 20/36..
+2025-06-16 14:03:45,195 [INFO] Stitching radar tile 21/36..
+2025-06-16 14:03:45,204 [INFO] Stitching radar tile 22/36..
+2025-06-16 14:03:45,212 [INFO] Stitching radar tile 23/36..
+2025-06-16 14:03:45,221 [INFO] Stitching radar tile 24/36..
+2025-06-16 14:03:45,229 [INFO] Stitching radar tile 25/36..
+2025-06-16 14:03:45,238 [INFO] Stitching radar tile 26/36..
+2025-06-16 14:03:45,246 [INFO] Stitching radar tile 27/36..
+2025-06-16 14:03:45,255 [INFO] Stitching radar tile 28/36..
+2025-06-16 14:03:45,263 [INFO] Stitching radar tile 29/36..
+2025-06-16 14:03:45,272 [INFO] Stitching radar tile 30/36..
+2025-06-16 14:03:45,280 [INFO] Stitching radar tile 31/36..
+2025-06-16 14:03:45,289 [INFO] Stitching radar tile 32/36..
+2025-06-16 14:03:45,297 [INFO] Stitching radar tile 33/36..
+2025-06-16 14:03:45,305 [INFO] Stitching radar tile 34/36..
+2025-06-16 14:03:45,314 [INFO] Stitching radar tile 35/36..
+2025-06-16 14:03:45,322 [INFO] Stitching radar tile 36/36..
+2025-06-16 14:03:45,331 [INFO] Compositing frame 1/36
+2025-06-16 14:03:46,322 [INFO] Compositing frame 2/36
+2025-06-16 14:03:47,246 [INFO] Compositing frame 3/36
+2025-06-16 14:03:48,158 [INFO] Compositing frame 4/36
+2025-06-16 14:03:49,070 [INFO] Compositing frame 5/36
+2025-06-16 14:03:49,980 [INFO] Compositing frame 6/36
+2025-06-16 14:03:50,911 [INFO] Compositing frame 7/36
+2025-06-16 14:03:51,830 [INFO] Compositing frame 8/36
+2025-06-16 14:03:52,741 [INFO] Compositing frame 9/36
+2025-06-16 14:03:53,655 [INFO] Compositing frame 10/36
+2025-06-16 14:03:54,563 [INFO] Compositing frame 11/36
+2025-06-16 14:03:55,479 [INFO] Compositing frame 12/36
+2025-06-16 14:03:56,388 [INFO] Compositing frame 13/36
+2025-06-16 14:03:57,300 [INFO] Compositing frame 14/36
+2025-06-16 14:03:58,221 [INFO] Compositing frame 15/36
+2025-06-16 14:03:59,172 [INFO] Compositing frame 16/36
+2025-06-16 14:04:00,101 [INFO] Compositing frame 17/36
+2025-06-16 14:04:01,025 [INFO] Compositing frame 18/36
+2025-06-16 14:04:01,942 [INFO] Compositing frame 19/36
+2025-06-16 14:04:02,883 [INFO] Compositing frame 20/36
+2025-06-16 14:04:03,904 [INFO] Compositing frame 21/36
+2025-06-16 14:04:04,818 [INFO] Compositing frame 22/36
+2025-06-16 14:04:05,735 [INFO] Compositing frame 23/36
+2025-06-16 14:04:06,659 [INFO] Compositing frame 24/36
+2025-06-16 14:04:07,573 [INFO] Compositing frame 25/36
+2025-06-16 14:04:08,486 [INFO] Compositing frame 26/36
+2025-06-16 14:04:09,396 [INFO] Compositing frame 27/36
+2025-06-16 14:04:10,302 [INFO] Compositing frame 28/36
+2025-06-16 14:04:11,221 [INFO] Compositing frame 29/36
+2025-06-16 14:04:12,129 [INFO] Compositing frame 30/36
+2025-06-16 14:04:13,044 [INFO] Compositing frame 31/36
+2025-06-16 14:04:13,956 [INFO] Compositing frame 32/36
+2025-06-16 14:04:14,867 [INFO] Compositing frame 33/36
+2025-06-16 14:04:15,777 [INFO] Compositing frame 34/36
+2025-06-16 14:04:16,684 [INFO] Compositing frame 35/36
+2025-06-16 14:04:17,602 [INFO] Compositing frame 36/36
+2025-06-16 14:04:18,515 [INFO] Created 36 new radar frames.
+2025-06-16 14:05:10,704 [INFO] Starting i2Radar..
+2025-06-16 14:05:10,704 [INFO] Creating radar frames..
+2025-06-16 14:05:10,970 [INFO] Cleared 0 radar frames.
+2025-06-16 14:08:13,091 [INFO] Starting i2Radar..
+2025-06-16 14:08:13,153 [INFO] Creating radar frames..
+2025-06-16 14:08:13,416 [INFO] Cleared 0 radar frames.
+2025-06-16 14:08:14,718 [INFO] Stitching radar tile 1/12..
+2025-06-16 14:08:14,784 [INFO] Stitching radar tile 2/12..
+2025-06-16 14:08:14,792 [INFO] Stitching radar tile 3/12..
+2025-06-16 14:08:14,801 [INFO] Stitching radar tile 4/12..
+2025-06-16 14:08:14,810 [INFO] Stitching radar tile 5/12..
+2025-06-16 14:08:14,818 [INFO] Stitching radar tile 6/12..
+2025-06-16 14:08:14,826 [INFO] Stitching radar tile 7/12..
+2025-06-16 14:08:14,834 [INFO] Stitching radar tile 8/12..
+2025-06-16 14:08:14,842 [INFO] Stitching radar tile 9/12..
+2025-06-16 14:08:14,851 [INFO] Stitching radar tile 10/12..
+2025-06-16 14:08:14,859 [INFO] Stitching radar tile 11/12..
+2025-06-16 14:08:14,867 [INFO] Stitching radar tile 12/12..
+2025-06-16 14:08:14,875 [INFO] Compositing frame 1/12
+2025-06-16 14:08:15,256 [INFO] Compositing frame 2/12
+2025-06-16 14:08:15,582 [INFO] Compositing frame 3/12
+2025-06-16 14:08:15,904 [INFO] Compositing frame 4/12
+2025-06-16 14:08:16,227 [INFO] Compositing frame 5/12
+2025-06-16 14:08:16,548 [INFO] Compositing frame 6/12
+2025-06-16 14:08:16,868 [INFO] Compositing frame 7/12
+2025-06-16 14:08:17,192 [INFO] Compositing frame 8/12
+2025-06-16 14:08:17,514 [INFO] Compositing frame 9/12
+2025-06-16 14:08:17,835 [INFO] Compositing frame 10/12
+2025-06-16 14:08:18,163 [INFO] Compositing frame 11/12
+2025-06-16 14:08:18,489 [INFO] Compositing frame 12/12
+2025-06-16 14:08:18,816 [INFO] Created 12 new radar frames.
+2025-06-16 14:08:45,359 [INFO] Starting i2Radar..
+2025-06-16 14:08:45,360 [INFO] Creating radar frames..
+2025-06-16 14:08:45,596 [INFO] Cleared 0 radar frames.
+2025-06-16 14:09:59,802 [INFO] Stitching radar tile 1/36..
+2025-06-16 14:10:00,069 [INFO] Stitching radar tile 2/36..
+2025-06-16 14:10:00,070 [INFO] Stitching radar tile 3/36..
+2025-06-16 14:10:00,286 [INFO] Stitching radar tile 4/36..
+2025-06-16 14:10:00,498 [INFO] Stitching radar tile 5/36..
+2025-06-16 14:10:00,499 [INFO] Stitching radar tile 6/36..
+2025-06-16 14:10:00,712 [INFO] Stitching radar tile 7/36..
+2025-06-16 14:10:00,922 [INFO] Stitching radar tile 8/36..
+2025-06-16 14:10:00,922 [INFO] Stitching radar tile 9/36..
+2025-06-16 14:10:01,137 [INFO] Stitching radar tile 10/36..
+2025-06-16 14:10:01,345 [INFO] Stitching radar tile 11/36..
+2025-06-16 14:10:01,345 [INFO] Stitching radar tile 12/36..
+2025-06-16 14:10:01,609 [INFO] Stitching radar tile 13/36..
+2025-06-16 14:10:01,821 [INFO] Stitching radar tile 14/36..
+2025-06-16 14:10:01,821 [INFO] Stitching radar tile 15/36..
+2025-06-16 14:10:02,029 [INFO] Stitching radar tile 16/36..
+2025-06-16 14:10:02,242 [INFO] Stitching radar tile 17/36..
+2025-06-16 14:10:02,242 [INFO] Stitching radar tile 18/36..
+2025-06-16 14:10:02,453 [INFO] Stitching radar tile 19/36..
+2025-06-16 14:10:02,664 [INFO] Stitching radar tile 20/36..
+2025-06-16 14:10:02,664 [INFO] Stitching radar tile 21/36..
+2025-06-16 14:10:02,870 [INFO] Stitching radar tile 22/36..
+2025-06-16 14:10:03,076 [INFO] Stitching radar tile 23/36..
+2025-06-16 14:10:03,076 [INFO] Stitching radar tile 24/36..
+2025-06-16 14:10:03,281 [INFO] Stitching radar tile 25/36..
+2025-06-16 14:10:03,486 [INFO] Stitching radar tile 26/36..
+2025-06-16 14:10:03,486 [INFO] Stitching radar tile 27/36..
+2025-06-16 14:10:03,693 [INFO] Stitching radar tile 28/36..
+2025-06-16 14:10:03,899 [INFO] Stitching radar tile 29/36..
+2025-06-16 14:10:03,899 [INFO] Stitching radar tile 30/36..
+2025-06-16 14:10:04,103 [INFO] Stitching radar tile 31/36..
+2025-06-16 14:10:04,307 [INFO] Stitching radar tile 32/36..
+2025-06-16 14:10:04,307 [INFO] Stitching radar tile 33/36..
+2025-06-16 14:10:04,515 [INFO] Stitching radar tile 34/36..
+2025-06-16 14:10:04,719 [INFO] Stitching radar tile 35/36..
+2025-06-16 14:10:04,719 [INFO] Stitching radar tile 36/36..
+2025-06-16 14:10:04,922 [INFO] Compositing frame 1/24
+2025-06-16 14:10:09,112 [INFO] Compositing frame 2/24
+2025-06-16 14:10:13,295 [INFO] Compositing frame 3/24
+2025-06-16 14:10:17,471 [INFO] Compositing frame 4/24
+2025-06-16 14:10:21,623 [INFO] Compositing frame 5/24
+2025-06-16 14:10:25,739 [INFO] Compositing frame 6/24
+2025-06-16 14:10:29,883 [INFO] Compositing frame 7/24
+2025-06-16 14:10:34,024 [INFO] Compositing frame 8/24
+2025-06-16 14:10:38,213 [INFO] Compositing frame 9/24
+2025-06-16 14:10:42,359 [INFO] Compositing frame 10/24
+2025-06-16 14:10:46,562 [INFO] Compositing frame 11/24
+2025-06-16 14:10:50,675 [INFO] Compositing frame 12/24
+2025-06-16 14:10:54,811 [INFO] Compositing frame 13/24
+2025-06-16 14:10:58,944 [INFO] Compositing frame 14/24
+2025-06-16 14:11:03,115 [INFO] Compositing frame 15/24
+2025-06-16 14:11:07,269 [INFO] Compositing frame 16/24
+2025-06-16 14:11:11,464 [INFO] Compositing frame 17/24
+2025-06-16 14:11:15,621 [INFO] Compositing frame 18/24
+2025-06-16 14:11:19,873 [INFO] Compositing frame 19/24
+2025-06-16 14:11:24,035 [INFO] Compositing frame 20/24
+2025-06-16 14:11:28,158 [INFO] Compositing frame 21/24
+2025-06-16 14:11:32,305 [INFO] Compositing frame 22/24
+2025-06-16 14:11:36,480 [INFO] Compositing frame 23/24
+2025-06-16 14:11:40,638 [INFO] Compositing frame 24/24
+2025-06-16 14:11:44,770 [INFO] Created 24 new radar frames.
+2025-06-16 14:16:45,140 [INFO] Creating radar frames..
+2025-06-16 14:16:45,432 [INFO] Cleared 2 radar frames.
+2025-06-16 14:16:56,822 [INFO] Stitching radar tile 1/36..
+2025-06-16 14:16:57,036 [INFO] Stitching radar tile 2/36..
+2025-06-16 14:16:57,250 [INFO] Stitching radar tile 3/36..
+2025-06-16 14:16:57,250 [INFO] Stitching radar tile 4/36..
+2025-06-16 14:16:57,251 [INFO] Stitching radar tile 5/36..
+2025-06-16 14:16:57,251 [INFO] Stitching radar tile 6/36..
+2025-06-16 14:16:57,251 [INFO] Stitching radar tile 7/36..
+2025-06-16 14:16:57,251 [INFO] Stitching radar tile 8/36..
+2025-06-16 14:16:57,251 [INFO] Stitching radar tile 9/36..
+2025-06-16 14:16:57,251 [INFO] Stitching radar tile 10/36..
+2025-06-16 14:16:57,251 [INFO] Stitching radar tile 11/36..
+2025-06-16 14:16:57,251 [INFO] Stitching radar tile 12/36..
+2025-06-16 14:16:57,251 [INFO] Stitching radar tile 13/36..
+2025-06-16 14:16:57,252 [INFO] Stitching radar tile 14/36..
+2025-06-16 14:16:57,252 [INFO] Stitching radar tile 15/36..
+2025-06-16 14:16:57,252 [INFO] Stitching radar tile 16/36..
+2025-06-16 14:16:57,252 [INFO] Stitching radar tile 17/36..
+2025-06-16 14:16:57,252 [INFO] Stitching radar tile 18/36..
+2025-06-16 14:16:57,252 [INFO] Stitching radar tile 19/36..
+2025-06-16 14:16:57,252 [INFO] Stitching radar tile 20/36..
+2025-06-16 14:16:57,253 [INFO] Stitching radar tile 21/36..
+2025-06-16 14:16:57,253 [INFO] Stitching radar tile 22/36..
+2025-06-16 14:16:57,253 [INFO] Stitching radar tile 23/36..
+2025-06-16 14:16:57,253 [INFO] Stitching radar tile 24/36..
+2025-06-16 14:16:57,253 [INFO] Stitching radar tile 25/36..
+2025-06-16 14:16:57,253 [INFO] Stitching radar tile 26/36..
+2025-06-16 14:16:57,253 [INFO] Stitching radar tile 27/36..
+2025-06-16 14:16:57,253 [INFO] Stitching radar tile 28/36..
+2025-06-16 14:16:57,254 [INFO] Stitching radar tile 29/36..
+2025-06-16 14:16:57,254 [INFO] Stitching radar tile 30/36..
+2025-06-16 14:16:57,254 [INFO] Stitching radar tile 31/36..
+2025-06-16 14:16:57,254 [INFO] Stitching radar tile 32/36..
+2025-06-16 14:16:57,254 [INFO] Stitching radar tile 33/36..
+2025-06-16 14:16:57,254 [INFO] Stitching radar tile 34/36..
+2025-06-16 14:16:57,254 [INFO] Stitching radar tile 35/36..
+2025-06-16 14:16:57,255 [INFO] Stitching radar tile 36/36..
+2025-06-16 14:16:57,255 [INFO] Compositing frame 1/2
+2025-06-16 14:17:01,418 [INFO] Compositing frame 2/2
+2025-06-16 14:17:05,621 [INFO] Created 2 new radar frames.
+2025-06-16 14:26:58,773 [INFO] Starting i2Radar..
+2025-06-16 14:26:58,773 [INFO] Creating radar frames..
+2025-06-16 14:26:59,028 [INFO] Cleared 2 radar frames.
+2025-06-16 14:28:10,079 [INFO] Starting i2Radar..
+2025-06-16 14:28:10,083 [INFO] Creating radar frames..
+2025-06-16 14:28:10,311 [INFO] Cleared 0 radar frames.
+2025-06-16 14:28:20,433 [INFO] Starting i2Radar..
+2025-06-16 14:28:20,450 [INFO] Creating radar frames..
+2025-06-16 14:28:20,712 [INFO] Cleared 0 radar frames.
+2025-06-16 14:29:22,655 [INFO] Starting i2Radar..
+2025-06-16 14:29:22,782 [INFO] Creating radar frames..
+2025-06-16 14:29:23,007 [INFO] Cleared 0 radar frames.
+2025-06-16 14:29:25,638 [INFO] Stitching radar tile 1/36..
+2025-06-16 14:29:25,703 [INFO] Stitching radar tile 2/36..
+2025-06-16 14:29:25,712 [INFO] Stitching radar tile 3/36..
+2025-06-16 14:29:25,720 [INFO] Stitching radar tile 4/36..
+2025-06-16 14:29:25,729 [INFO] Stitching radar tile 5/36..
+2025-06-16 14:29:25,737 [INFO] Stitching radar tile 6/36..
+2025-06-16 14:29:25,746 [INFO] Stitching radar tile 7/36..
+2025-06-16 14:29:25,755 [INFO] Stitching radar tile 8/36..
+2025-06-16 14:29:25,763 [INFO] Stitching radar tile 9/36..
+2025-06-16 14:29:25,772 [INFO] Stitching radar tile 10/36..
+2025-06-16 14:29:25,781 [INFO] Stitching radar tile 11/36..
+2025-06-16 14:29:25,790 [INFO] Stitching radar tile 12/36..
+2025-06-16 14:29:25,798 [INFO] Stitching radar tile 13/36..
+2025-06-16 14:29:25,807 [INFO] Stitching radar tile 14/36..
+2025-06-16 14:29:25,815 [INFO] Stitching radar tile 15/36..
+2025-06-16 14:29:25,824 [INFO] Stitching radar tile 16/36..
+2025-06-16 14:29:25,832 [INFO] Stitching radar tile 17/36..
+2025-06-16 14:29:25,841 [INFO] Stitching radar tile 18/36..
+2025-06-16 14:29:25,849 [INFO] Stitching radar tile 19/36..
+2025-06-16 14:29:25,858 [INFO] Stitching radar tile 20/36..
+2025-06-16 14:29:25,867 [INFO] Stitching radar tile 21/36..
+2025-06-16 14:29:25,875 [INFO] Stitching radar tile 22/36..
+2025-06-16 14:29:25,884 [INFO] Stitching radar tile 23/36..
+2025-06-16 14:29:25,892 [INFO] Stitching radar tile 24/36..
+2025-06-16 14:29:25,901 [INFO] Stitching radar tile 25/36..
+2025-06-16 14:29:25,909 [INFO] Stitching radar tile 26/36..
+2025-06-16 14:29:25,918 [INFO] Stitching radar tile 27/36..
+2025-06-16 14:29:25,927 [INFO] Stitching radar tile 28/36..
+2025-06-16 14:29:25,935 [INFO] Stitching radar tile 29/36..
+2025-06-16 14:29:25,944 [INFO] Stitching radar tile 30/36..
+2025-06-16 14:29:25,952 [INFO] Stitching radar tile 31/36..
+2025-06-16 14:29:25,961 [INFO] Stitching radar tile 32/36..
+2025-06-16 14:29:25,970 [INFO] Stitching radar tile 33/36..
+2025-06-16 14:29:25,979 [INFO] Stitching radar tile 34/36..
+2025-06-16 14:29:25,987 [INFO] Stitching radar tile 35/36..
+2025-06-16 14:29:25,996 [INFO] Stitching radar tile 36/36..
+2025-06-16 14:29:26,005 [INFO] Compositing frame 1/36
+2025-06-16 14:29:26,960 [INFO] Compositing frame 2/36
+2025-06-16 14:29:27,885 [INFO] Compositing frame 3/36
+2025-06-16 14:29:28,799 [INFO] Compositing frame 4/36
+2025-06-16 14:29:29,741 [INFO] Compositing frame 5/36
+2025-06-16 14:29:30,663 [INFO] Compositing frame 6/36
+2025-06-16 14:29:31,575 [INFO] Compositing frame 7/36
+2025-06-16 14:29:32,487 [INFO] Compositing frame 8/36
+2025-06-16 14:29:33,400 [INFO] Compositing frame 9/36
+2025-06-16 14:29:34,315 [INFO] Compositing frame 10/36
+2025-06-16 14:29:35,226 [INFO] Compositing frame 11/36
+2025-06-16 14:29:36,141 [INFO] Compositing frame 12/36
+2025-06-16 14:29:37,062 [INFO] Compositing frame 13/36
+2025-06-16 14:29:37,982 [INFO] Compositing frame 14/36
+2025-06-16 14:29:38,898 [INFO] Compositing frame 15/36
+2025-06-16 14:29:39,815 [INFO] Compositing frame 16/36
+2025-06-16 14:29:40,735 [INFO] Compositing frame 17/36
+2025-06-16 14:29:41,723 [INFO] Compositing frame 18/36
+2025-06-16 14:29:42,732 [INFO] Compositing frame 19/36
+2025-06-16 14:29:43,740 [INFO] Compositing frame 20/36
+2025-06-16 14:29:44,652 [INFO] Compositing frame 21/36
+2025-06-16 14:29:45,567 [INFO] Compositing frame 22/36
+2025-06-16 14:29:46,488 [INFO] Compositing frame 23/36
+2025-06-16 14:29:47,411 [INFO] Compositing frame 24/36
+2025-06-16 14:29:48,345 [INFO] Compositing frame 25/36
+2025-06-16 14:29:49,257 [INFO] Compositing frame 26/36
+2025-06-16 14:29:50,167 [INFO] Compositing frame 27/36
+2025-06-16 14:29:51,069 [INFO] Compositing frame 28/36
+2025-06-16 14:29:51,989 [INFO] Compositing frame 29/36
+2025-06-16 14:29:52,897 [INFO] Compositing frame 30/36
+2025-06-16 14:29:53,801 [INFO] Compositing frame 31/36
+2025-06-16 14:29:54,707 [INFO] Compositing frame 32/36
+2025-06-16 14:29:55,618 [INFO] Compositing frame 33/36
+2025-06-16 14:29:56,555 [INFO] Compositing frame 34/36
+2025-06-16 14:29:57,465 [INFO] Compositing frame 35/36
+2025-06-16 14:29:58,390 [INFO] Compositing frame 36/36
+2025-06-16 14:29:59,300 [INFO] Created 36 new radar frames.
+2025-06-16 14:30:11,298 [INFO] Starting i2Radar..
+2025-06-16 14:30:11,299 [INFO] Creating radar frames..
+2025-06-16 14:30:11,538 [INFO] Cleared 0 radar frames.
+2025-06-16 14:30:16,081 [INFO] Starting i2Radar..
+2025-06-16 14:30:16,085 [INFO] Creating radar frames..
+2025-06-16 14:30:16,472 [INFO] Cleared 0 radar frames.
+2025-06-16 14:30:18,692 [INFO] Stitching radar tile 1/36..
+2025-06-16 14:30:18,762 [INFO] Stitching radar tile 2/36..
+2025-06-16 14:30:18,771 [INFO] Stitching radar tile 3/36..
+2025-06-16 14:30:18,780 [INFO] Stitching radar tile 4/36..
+2025-06-16 14:30:18,788 [INFO] Stitching radar tile 5/36..
+2025-06-16 14:30:18,797 [INFO] Stitching radar tile 6/36..
+2025-06-16 14:30:18,805 [INFO] Stitching radar tile 7/36..
+2025-06-16 14:30:18,814 [INFO] Stitching radar tile 8/36..
+2025-06-16 14:30:18,822 [INFO] Stitching radar tile 9/36..
+2025-06-16 14:30:18,831 [INFO] Stitching radar tile 10/36..
+2025-06-16 14:30:18,839 [INFO] Stitching radar tile 11/36..
+2025-06-16 14:30:18,848 [INFO] Stitching radar tile 12/36..
+2025-06-16 14:30:18,856 [INFO] Stitching radar tile 13/36..
+2025-06-16 14:30:18,865 [INFO] Stitching radar tile 14/36..
+2025-06-16 14:30:18,873 [INFO] Stitching radar tile 15/36..
+2025-06-16 14:30:18,881 [INFO] Stitching radar tile 16/36..
+2025-06-16 14:30:18,890 [INFO] Stitching radar tile 17/36..
+2025-06-16 14:30:18,899 [INFO] Stitching radar tile 18/36..
+2025-06-16 14:30:18,907 [INFO] Stitching radar tile 19/36..
+2025-06-16 14:30:18,916 [INFO] Stitching radar tile 20/36..
+2025-06-16 14:30:18,924 [INFO] Stitching radar tile 21/36..
+2025-06-16 14:30:18,933 [INFO] Stitching radar tile 22/36..
+2025-06-16 14:30:18,941 [INFO] Stitching radar tile 23/36..
+2025-06-16 14:30:18,950 [INFO] Stitching radar tile 24/36..
+2025-06-16 14:30:18,958 [INFO] Stitching radar tile 25/36..
+2025-06-16 14:30:18,967 [INFO] Stitching radar tile 26/36..
+2025-06-16 14:30:18,976 [INFO] Stitching radar tile 27/36..
+2025-06-16 14:30:18,984 [INFO] Stitching radar tile 28/36..
+2025-06-16 14:30:18,993 [INFO] Stitching radar tile 29/36..
+2025-06-16 14:30:19,002 [INFO] Stitching radar tile 30/36..
+2025-06-16 14:30:19,011 [INFO] Stitching radar tile 31/36..
+2025-06-16 14:30:19,020 [INFO] Stitching radar tile 32/36..
+2025-06-16 14:30:19,030 [INFO] Stitching radar tile 33/36..
+2025-06-16 14:30:19,040 [INFO] Stitching radar tile 34/36..
+2025-06-16 14:30:19,048 [INFO] Stitching radar tile 35/36..
+2025-06-16 14:30:19,058 [INFO] Stitching radar tile 36/36..
+2025-06-16 14:30:19,067 [INFO] Compositing frame 1/36
+2025-06-16 14:30:20,021 [INFO] Compositing frame 2/36
+2025-06-16 14:30:20,944 [INFO] Compositing frame 3/36
+2025-06-16 14:30:21,852 [INFO] Compositing frame 4/36
+2025-06-16 14:30:22,768 [INFO] Compositing frame 5/36
+2025-06-16 14:30:23,676 [INFO] Compositing frame 6/36
+2025-06-16 14:30:24,597 [INFO] Compositing frame 7/36
+2025-06-16 14:30:25,510 [INFO] Compositing frame 8/36
+2025-06-16 14:30:26,434 [INFO] Compositing frame 9/36
+2025-06-16 14:30:27,342 [INFO] Compositing frame 10/36
+2025-06-16 14:30:28,255 [INFO] Compositing frame 11/36
+2025-06-16 14:30:29,160 [INFO] Compositing frame 12/36
+2025-06-16 14:30:30,064 [INFO] Compositing frame 13/36
+2025-06-16 14:30:30,967 [INFO] Compositing frame 14/36
+2025-06-16 14:30:31,874 [INFO] Compositing frame 15/36
+2025-06-16 14:30:32,794 [INFO] Compositing frame 16/36
+2025-06-16 14:30:33,703 [INFO] Compositing frame 17/36
+2025-06-16 14:30:34,617 [INFO] Compositing frame 18/36
+2025-06-16 14:30:35,539 [INFO] Compositing frame 19/36
+2025-06-16 14:30:36,448 [INFO] Compositing frame 20/36
+2025-06-16 14:30:37,366 [INFO] Compositing frame 21/36
+2025-06-16 14:30:38,271 [INFO] Compositing frame 22/36
+2025-06-16 14:30:39,177 [INFO] Compositing frame 23/36
+2025-06-16 14:30:40,085 [INFO] Compositing frame 24/36
+2025-06-16 14:30:41,000 [INFO] Compositing frame 25/36
+2025-06-16 14:30:41,912 [INFO] Compositing frame 26/36
+2025-06-16 14:30:42,826 [INFO] Compositing frame 27/36
+2025-06-16 14:30:43,741 [INFO] Compositing frame 28/36
+2025-06-16 14:30:44,651 [INFO] Compositing frame 29/36
+2025-06-16 14:30:45,559 [INFO] Compositing frame 30/36
+2025-06-16 14:30:46,489 [INFO] Compositing frame 31/36
+2025-06-16 14:30:47,403 [INFO] Compositing frame 32/36
+2025-06-16 14:30:48,309 [INFO] Compositing frame 33/36
+2025-06-16 14:30:49,264 [INFO] Compositing frame 34/36
+2025-06-16 14:30:50,178 [INFO] Compositing frame 35/36
+2025-06-16 14:30:51,090 [INFO] Compositing frame 36/36
+2025-06-16 14:30:52,003 [INFO] Created 36 new radar frames.
+2025-06-16 14:31:15,645 [INFO] Starting i2Radar..
+2025-06-16 14:31:15,647 [INFO] Creating radar frames..
+2025-06-16 14:31:15,844 [INFO] Cleared 0 radar frames.
+2025-06-16 14:33:03,941 [INFO] Stitching radar tile 1/36..
+2025-06-16 14:33:04,207 [INFO] Stitching radar tile 2/36..
+2025-06-16 14:33:04,420 [INFO] Stitching radar tile 3/36..
+2025-06-16 14:33:04,631 [INFO] Stitching radar tile 4/36..
+2025-06-16 14:33:04,847 [INFO] Stitching radar tile 5/36..
+2025-06-16 14:33:05,069 [INFO] Stitching radar tile 6/36..
+2025-06-16 14:33:05,350 [INFO] Stitching radar tile 7/36..
+2025-06-16 14:33:05,565 [INFO] Stitching radar tile 8/36..
+2025-06-16 14:33:05,775 [INFO] Stitching radar tile 9/36..
+2025-06-16 14:33:05,989 [INFO] Stitching radar tile 10/36..
+2025-06-16 14:33:06,202 [INFO] Stitching radar tile 11/36..
+2025-06-16 14:33:06,425 [INFO] Stitching radar tile 12/36..
+2025-06-16 14:33:06,637 [INFO] Stitching radar tile 13/36..
+2025-06-16 14:33:06,849 [INFO] Stitching radar tile 14/36..
+2025-06-16 14:33:07,061 [INFO] Stitching radar tile 15/36..
+2025-06-16 14:33:07,272 [INFO] Stitching radar tile 16/36..
+2025-06-16 14:33:07,490 [INFO] Stitching radar tile 17/36..
+2025-06-16 14:33:07,720 [INFO] Stitching radar tile 18/36..
+2025-06-16 14:33:07,931 [INFO] Stitching radar tile 19/36..
+2025-06-16 14:33:08,144 [INFO] Stitching radar tile 20/36..
+2025-06-16 14:33:08,372 [INFO] Stitching radar tile 21/36..
+2025-06-16 14:33:08,589 [INFO] Stitching radar tile 22/36..
+2025-06-16 14:33:08,800 [INFO] Stitching radar tile 23/36..
+2025-06-16 14:33:09,009 [INFO] Stitching radar tile 24/36..
+2025-06-16 14:33:09,216 [INFO] Stitching radar tile 25/36..
+2025-06-16 14:33:09,425 [INFO] Stitching radar tile 26/36..
+2025-06-16 14:33:09,632 [INFO] Stitching radar tile 27/36..
+2025-06-16 14:33:09,841 [INFO] Stitching radar tile 28/36..
+2025-06-16 14:33:10,049 [INFO] Stitching radar tile 29/36..
+2025-06-16 14:33:10,258 [INFO] Stitching radar tile 30/36..
+2025-06-16 14:33:10,465 [INFO] Stitching radar tile 31/36..
+2025-06-16 14:33:10,674 [INFO] Stitching radar tile 32/36..
+2025-06-16 14:33:10,882 [INFO] Stitching radar tile 33/36..
+2025-06-16 14:33:11,092 [INFO] Stitching radar tile 34/36..
+2025-06-16 14:33:11,299 [INFO] Stitching radar tile 35/36..
+2025-06-16 14:33:11,506 [INFO] Stitching radar tile 36/36..
+2025-06-16 14:33:11,711 [INFO] Compositing frame 1/36
+2025-06-16 14:33:15,850 [INFO] Compositing frame 2/36
+2025-06-16 14:33:19,972 [INFO] Compositing frame 3/36
+2025-06-16 14:33:24,131 [INFO] Compositing frame 4/36
+2025-06-16 14:33:28,285 [INFO] Compositing frame 5/36
+2025-06-16 14:33:32,554 [INFO] Compositing frame 6/36
+2025-06-16 14:33:36,687 [INFO] Compositing frame 7/36
+2025-06-16 14:33:40,833 [INFO] Compositing frame 8/36
+2025-06-16 14:33:44,971 [INFO] Compositing frame 9/36
+2025-06-16 14:33:49,150 [INFO] Compositing frame 10/36
+2025-06-16 14:33:53,284 [INFO] Compositing frame 11/36
+2025-06-16 14:33:57,452 [INFO] Compositing frame 12/36
+2025-06-16 14:34:01,611 [INFO] Compositing frame 13/36
+2025-06-16 14:34:05,746 [INFO] Compositing frame 14/36
+2025-06-16 14:34:09,880 [INFO] Compositing frame 15/36
+2025-06-16 14:34:14,053 [INFO] Compositing frame 16/36
+2025-06-16 14:34:18,175 [INFO] Compositing frame 17/36
+2025-06-16 14:34:22,304 [INFO] Compositing frame 18/36
+2025-06-16 14:34:26,441 [INFO] Compositing frame 19/36
+2025-06-16 14:34:30,583 [INFO] Compositing frame 20/36
+2025-06-16 14:34:34,738 [INFO] Compositing frame 21/36
+2025-06-16 14:34:38,886 [INFO] Compositing frame 22/36
+2025-06-16 14:34:43,025 [INFO] Compositing frame 23/36
+2025-06-16 14:34:47,172 [INFO] Compositing frame 24/36
+2025-06-16 14:34:51,308 [INFO] Compositing frame 25/36
+2025-06-16 14:34:55,418 [INFO] Compositing frame 26/36
+2025-06-16 14:34:59,583 [INFO] Compositing frame 27/36
+2025-06-16 14:35:03,754 [INFO] Compositing frame 28/36
+2025-06-16 14:35:07,876 [INFO] Compositing frame 29/36
+2025-06-16 14:35:12,003 [INFO] Compositing frame 30/36
+2025-06-16 14:35:16,134 [INFO] Compositing frame 31/36
+2025-06-16 14:35:20,263 [INFO] Compositing frame 32/36
+2025-06-16 14:35:24,380 [INFO] Compositing frame 33/36
+2025-06-16 14:35:28,536 [INFO] Compositing frame 34/36
+2025-06-16 14:35:32,665 [INFO] Compositing frame 35/36
+2025-06-16 14:35:36,796 [INFO] Compositing frame 36/36
+2025-06-16 14:35:40,936 [INFO] Created 36 new radar frames.
